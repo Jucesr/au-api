@@ -1,0 +1,438 @@
+{
+  "b.496173fb-c600-4e9d-aeac-8aeb054999c2": [
+      {
+          "id": "70265380-32c4-4942-bf02-071a08253fda",
+          "type": "quality_issues",
+          "links": {
+              "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda"
+          },
+          "attributes": {
+              "created_at": "2019-10-10T22:20:54.347Z",
+              "synced_at": "2019-10-10T22:20:54.351Z",
+              "updated_at": "2019-10-10T22:20:54.349Z",
+              "close_version": null,
+              "closed_at": null,
+              "closed_by": null,
+              "created_by": "L5T8QNKZ77JA",
+              "opened_at": "2019-10-10T22:20:54.340Z",
+              "opened_by": "L5T8QNKZ77JA",
+              "updated_by": "L5T8QNKZ77JA",
+              "starting_version": null,
+              "title": "Se colocaron mal las zapatas",
+              "description": "",
+              "location_description": null,
+              "markup_metadata": null,
+              "tags": null,
+              "resource_urns": null,
+              "target_urn": null,
+              "target_urn_page": null,
+              "collection_urn": null,
+              "due_date": "2019-10-14T00:00:00.000Z",
+              "identifier": 2,
+              "status": "open",
+              "assigned_to": null,
+              "assigned_to_type": "",
+              "answer": null,
+              "answered_at": null,
+              "answered_by": null,
+              "pushpin_attributes": null,
+              "snapshot_urn": null,
+              "owner": "L5T8QNKZ77JA",
+              "issue_type_id": null,
+              "issue_type": null,
+              "issue_sub_type": null,
+              "root_cause_id": null,
+              "root_cause": null,
+              "quality_urns": null,
+              "permitted_statuses": [
+                  "answered",
+                  "closed",
+                  "void"
+              ],
+              "permitted_attributes": [
+                  "answer",
+                  "assigned_to",
+                  "assigned_to_type",
+                  "description",
+                  "due_date",
+                  "location_description",
+                  "trades",
+                  "owner",
+                  "issue_type",
+                  "issue_type_id",
+                  "root_cause",
+                  "root_cause_id",
+                  "title",
+                  "status",
+                  "sheet_metadata",
+                  "lbs_location",
+                  "pushpin_attributes",
+                  "snapshot_urn",
+                  "close_version",
+                  "comments_attributes",
+                  "attachments_attributes",
+                  "resource_urns",
+                  "markup_metadata",
+                  "updated_at",
+                  "tags",
+                  "collection_urn",
+                  "custom_attributes",
+                  "ng_issue_subtype_id"
+              ],
+              "comment_count": 0,
+              "attachment_count": 0,
+              "permitted_actions": [
+                  "add_comment",
+                  "add_attachment"
+              ],
+              "sheet_metadata": null,
+              "lbs_location": null,
+              "ng_issue_subtype_id": "928619b6-5bc4-40d2-9f66-0b2084ba1400",
+              "ng_issue_type_id": "66c563d5-0650-488c-820b-d1f40f678bf5",
+              "issue_template_id": null,
+              "custom_attributes": [],
+              "trades": null,
+              "comments_attributes": null,
+              "attachments_attributes": null
+          },
+          "relationships": {
+              "container": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/container",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/container"
+                  }
+              },
+              "attachments": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/attachments",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/attachments"
+                  }
+              },
+              "changesets": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/changesets",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/changesets"
+                  }
+              },
+              "comments": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/comments",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/comments"
+                  }
+              },
+              "activity_batches": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/activity-batches",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/activity-batches"
+                  }
+              },
+              "root_cause_obj": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/root-cause-obj",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/root-cause-obj"
+                  }
+              },
+              "issue_type_obj": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/issue-type-obj",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/issue-type-obj"
+                  }
+              }
+          }
+      },
+      {
+          "id": "84115b7f-dba2-43ab-93e1-94660ccc4590",
+          "type": "quality_issues",
+          "links": {
+              "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590"
+          },
+          "attributes": {
+              "created_at": "2019-10-10T22:19:45.613Z",
+              "synced_at": "2019-10-10T22:19:45.617Z",
+              "updated_at": "2019-10-10T22:19:45.614Z",
+              "close_version": null,
+              "closed_at": null,
+              "closed_by": null,
+              "created_by": "L5T8QNKZ77JA",
+              "opened_at": "2019-10-10T22:19:45.605Z",
+              "opened_by": "L5T8QNKZ77JA",
+              "updated_by": "L5T8QNKZ77JA",
+              "starting_version": null,
+              "title": "Falta detalle en planos.",
+              "description": "",
+              "location_description": null,
+              "markup_metadata": null,
+              "tags": null,
+              "resource_urns": null,
+              "target_urn": null,
+              "target_urn_page": null,
+              "collection_urn": null,
+              "due_date": "2019-10-10T00:00:00.000Z",
+              "identifier": 1,
+              "status": "open",
+              "assigned_to": null,
+              "assigned_to_type": "",
+              "answer": null,
+              "answered_at": null,
+              "answered_by": null,
+              "pushpin_attributes": null,
+              "snapshot_urn": null,
+              "owner": "L5T8QNKZ77JA",
+              "issue_type_id": null,
+              "issue_type": null,
+              "issue_sub_type": null,
+              "root_cause_id": null,
+              "root_cause": null,
+              "quality_urns": null,
+              "permitted_statuses": [
+                  "answered",
+                  "closed",
+                  "void"
+              ],
+              "permitted_attributes": [
+                  "answer",
+                  "assigned_to",
+                  "assigned_to_type",
+                  "description",
+                  "due_date",
+                  "location_description",
+                  "trades",
+                  "owner",
+                  "issue_type",
+                  "issue_type_id",
+                  "root_cause",
+                  "root_cause_id",
+                  "title",
+                  "status",
+                  "sheet_metadata",
+                  "lbs_location",
+                  "pushpin_attributes",
+                  "snapshot_urn",
+                  "close_version",
+                  "comments_attributes",
+                  "attachments_attributes",
+                  "resource_urns",
+                  "markup_metadata",
+                  "updated_at",
+                  "tags",
+                  "collection_urn",
+                  "custom_attributes",
+                  "ng_issue_subtype_id"
+              ],
+              "comment_count": 0,
+              "attachment_count": 0,
+              "permitted_actions": [
+                  "add_comment",
+                  "add_attachment"
+              ],
+              "sheet_metadata": null,
+              "lbs_location": null,
+              "ng_issue_subtype_id": "07ca9408-a587-4e3c-b2c1-d8744b74328f",
+              "ng_issue_type_id": "21b8d492-6300-4218-9969-e5a4362ce558",
+              "issue_template_id": null,
+              "custom_attributes": [],
+              "trades": null,
+              "comments_attributes": null,
+              "attachments_attributes": null
+          },
+          "relationships": {
+              "container": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/container",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/container"
+                  }
+              },
+              "attachments": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/attachments",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/attachments"
+                  }
+              },
+              "changesets": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/changesets",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/changesets"
+                  }
+              },
+              "comments": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/comments",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/comments"
+                  }
+              },
+              "activity_batches": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/activity-batches",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/activity-batches"
+                  }
+              },
+              "root_cause_obj": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/root-cause-obj",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/root-cause-obj"
+                  }
+              },
+              "issue_type_obj": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/issue-type-obj",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/issue-type-obj"
+                  }
+              }
+          }
+      },
+      {
+          "id": "75d2e6b9-b3ad-455d-a841-ed6b95689a52",
+          "type": "quality_issues",
+          "links": {
+              "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52"
+          },
+          "attributes": {
+              "created_at": "2019-10-10T22:22:53.418Z",
+              "synced_at": "2019-10-10T22:22:53.423Z",
+              "updated_at": "2019-10-10T22:22:53.420Z",
+              "close_version": null,
+              "closed_at": null,
+              "closed_by": null,
+              "created_by": "L5T8QNKZ77JA",
+              "opened_at": "2019-10-10T22:22:53.407Z",
+              "opened_by": "L5T8QNKZ77JA",
+              "updated_by": "L5T8QNKZ77JA",
+              "starting_version": null,
+              "title": "El concreto no se encuentra a temperatura adecuada",
+              "description": "",
+              "location_description": null,
+              "markup_metadata": null,
+              "tags": null,
+              "resource_urns": null,
+              "target_urn": null,
+              "target_urn_page": null,
+              "collection_urn": null,
+              "due_date": "2019-10-17T00:00:00.000Z",
+              "identifier": 3,
+              "status": "open",
+              "assigned_to": null,
+              "assigned_to_type": "",
+              "answer": null,
+              "answered_at": null,
+              "answered_by": null,
+              "pushpin_attributes": null,
+              "snapshot_urn": null,
+              "owner": "L5T8QNKZ77JA",
+              "issue_type_id": null,
+              "issue_type": null,
+              "issue_sub_type": null,
+              "root_cause_id": null,
+              "root_cause": null,
+              "quality_urns": null,
+              "permitted_statuses": [
+                  "work_completed",
+                  "ready_to_inspect",
+                  "not_approved",
+                  "in_dispute",
+                  "closed",
+                  "void"
+              ],
+              "permitted_attributes": [
+                  "answer",
+                  "assigned_to",
+                  "assigned_to_type",
+                  "description",
+                  "due_date",
+                  "location_description",
+                  "trades",
+                  "owner",
+                  "issue_type",
+                  "issue_type_id",
+                  "root_cause",
+                  "root_cause_id",
+                  "title",
+                  "status",
+                  "sheet_metadata",
+                  "lbs_location",
+                  "pushpin_attributes",
+                  "snapshot_urn",
+                  "close_version",
+                  "comments_attributes",
+                  "attachments_attributes",
+                  "resource_urns",
+                  "markup_metadata",
+                  "updated_at",
+                  "tags",
+                  "collection_urn",
+                  "custom_attributes",
+                  "ng_issue_subtype_id"
+              ],
+              "comment_count": 0,
+              "attachment_count": 0,
+              "permitted_actions": [
+                  "add_comment",
+                  "add_attachment"
+              ],
+              "sheet_metadata": null,
+              "lbs_location": null,
+              "ng_issue_subtype_id": "476a223b-8606-46d8-8379-de5df58b36bb",
+              "ng_issue_type_id": "dd05e293-7290-4ecd-9baa-f523cacffee7",
+              "issue_template_id": null,
+              "custom_attributes": [],
+              "trades": null,
+              "comments_attributes": null,
+              "attachments_attributes": null
+          },
+          "relationships": {
+              "container": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/container",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/container"
+                  }
+              },
+              "attachments": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/attachments",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/attachments"
+                  }
+              },
+              "changesets": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/changesets",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/changesets"
+                  }
+              },
+              "comments": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/comments",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/comments"
+                  }
+              },
+              "activity_batches": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/activity-batches",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/activity-batches"
+                  }
+              },
+              "root_cause_obj": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/root-cause-obj",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/root-cause-obj"
+                  }
+              },
+              "issue_type_obj": {
+                  "links": {
+                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/issue-type-obj",
+                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/issue-type-obj"
+                  }
+              }
+          }
+      }
+  ],
+  "meta": {
+      "page": {
+          "offset": 0,
+          "limit": 10
+      },
+      "record_count": 3
+  },
+  "links": {
+      "first": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues?page%5Blimit%5D=10&page%5Boffset%5D=0",
+      "last": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues?page%5Blimit%5D=10&page%5Boffset%5D=0"
+  }
+}
