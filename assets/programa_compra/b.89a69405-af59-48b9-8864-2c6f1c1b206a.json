@@ -1,0 +1,2764 @@
+[
+  {
+    "DESCRIPCION": [
+      "PRELIMINARES "
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "TOPOGRAFIA"
+    ],
+    "REQUERIDOENOBRA": [
+      "2-Jan-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 1.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "26-Dec-2018"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "10-May-2017"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "MATA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500152239"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "SEGURIDAD"
+    ],
+    "REQUERIDOENOBRA": [
+      "PENDIENTE FECHA"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 1.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "#VALUE!"
+    ],
+    "FORMADEPAGO": [
+      "CHEQUE"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "12-May-2017"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "PEDRO CORIA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500152197"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "LABORATORIO TERRACERIAS Y CONCRETOS"
+    ],
+    "REQUERIDOENOBRA": [
+      "2-Jan-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 1.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "26-Dec-2018"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "2-May-2017"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "ORCCO"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500152195"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "LABORATORIO ESTRUCTURA"
+    ],
+    "REQUERIDOENOBRA": [
+      "20-Feb-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 1.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "13-Feb-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "23-Jun-2017"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "CAPSA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500154314"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "TERRACERIAS "
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "TERRACERIAS"
+    ],
+    "REQUERIDOENOBRA": [
+      "7-Dec-2018"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "TYP "
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500151932"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "GENERALES "
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "VARILLA "
+    ],
+    "REQUERIDOENOBRA": [
+      "12-Jan-2019"
+    ],
+    "SUBMITTAL": [
+      "Certificado Calidad"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 1.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "28-Dec-2018"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "21-Dec-2018"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "ACEROS ALCALDE"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500151165"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "ALAMBRE RECOCIDO "
+    ],
+    "REQUERIDOENOBRA": [
+      "12-Jan-2019"
+    ],
+    "SUBMITTAL": [
+      "Certificado Calidad"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 1.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "5-Jan-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "2-Jan-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "ACEROS ALCALDE"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500152254"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "CONCRETO"
+    ],
+    "REQUERIDOENOBRA": [
+      "12-Jan-2019"
+    ],
+    "SUBMITTAL": [
+      "SI Y DISEÑO MEZCLA "
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 1.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "5-Jan-2019"
+    ],
+    "FORMADEPAGO": [
+      "CREDITO"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "2-Jan-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "CEMEX"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500152423"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "CIMENTACIONES"
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "MANO DE OBRA ZAPATAS"
+    ],
+    "REQUERIDOENOBRA": [
+      "12-Jan-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 1.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "4-Jan-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "4-Jan-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "JH"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500152149 4500152843"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "COMPRA ANCLAS "
+    ],
+    "REQUERIDOENOBRA": [
+      "4-Jan-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "4-Jan-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "9-Jan-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "ROSCATOR"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500152255"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "MANO DE OBRA MURO CONTENCION "
+    ],
+    "REQUERIDOENOBRA": [
+      "28-Feb-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 1.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "20-Feb-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "13-Feb-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      "LIDER PROYECTO"
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "OBRA CIVIL "
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500152843"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "ESTRUCTURA"
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "CONTRATO ESTRUCTURA "
+    ],
+    "REQUERIDOENOBRA": [
+      "18-Mar-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 8.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "21-Jan-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "17-Jan-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "EMYCSA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500151934"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "PINTURA EN ESTRUCTURA METALICA"
+    ],
+    "REQUERIDOENOBRA": [
+      "18-Mar-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 3.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "25-Feb-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "19-Feb-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      "CONTRATISTA"
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "EMYCSA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500151934"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "MUROS "
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "MANO DE OBRA MUROS"
+    ],
+    "REQUERIDOENOBRA": [
+      "11-Feb-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "28-Jan-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "16-Jan-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "COMTE Y JH"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500154311 4500154312"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "SUMNISTRO BLOCK "
+    ],
+    "REQUERIDOENOBRA": [
+      "6-Feb-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 4.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "9-Jan-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "4-Jan-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "LOCAL"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500153441"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "PISOS INTERIORES"
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "COLADO FIRMES "
+    ],
+    "REQUERIDOENOBRA": [
+      "5-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "21-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "9-Aug-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "SAPCON"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500159488"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "FIBRA METALICA "
+    ],
+    "REQUERIDOENOBRA": [
+      "5-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 3.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "14-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "1-Aug-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "BEKAERT"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500159209"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "PASAJUNTAS "
+    ],
+    "REQUERIDOENOBRA": [
+      "5-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 3.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "14-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "1-Aug-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "CONDISMINA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500159488"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "SELLO EN JUNTAS INTERIORES "
+    ],
+    "REQUERIDOENOBRA": [
+      "5-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 4.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "7-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "19-Aug-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      "CONTRATISTA"
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "SAPCON"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500159488"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "CURADO FIRME"
+    ],
+    "REQUERIDOENOBRA": [
+      "5-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 4.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "7-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "13-Sep-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "SAPCON"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500160646"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "ESTUDIO DE PLANICIDAD "
+    ],
+    "REQUERIDOENOBRA": [
+      "5-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 3.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "14-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "1-Aug-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "ICCE"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "LAMINACION"
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "SUM CUBIERTA Y MUROS"
+    ],
+    "REQUERIDOENOBRA": [
+      "9-Apr-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 4.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "12-Mar-2019"
+    ],
+    "FORMADEPAGO": [
+      "CREDITO "
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "5-Mar-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "PREMET"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500151936"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "DOMOS PRISMATICOS"
+    ],
+    "REQUERIDOENOBRA": [
+      "16-Apr-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 12.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "22-Jan-2019"
+    ],
+    "FORMADEPAGO": [
+      "CHEQUE"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "11-Jan-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "DOMOS PRISMATICOS"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500153014"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      "FALTAN BROCALES"
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "MANO DE OBRA CUBIERTA "
+    ],
+    "REQUERIDOENOBRA": [
+      "9-Apr-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "26-Mar-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "20-Mar-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "MONROY"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500154941"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "LINEA DE VIDA "
+    ],
+    "REQUERIDOENOBRA": [
+      "7-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "MONROY"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500154942"
+    ],
+    "ESTATUS": [
+      "ABIERTO"
+    ],
+    "COMENTARIO": [
+      "SE ACTUALIZARON PLANOS"
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "PASOS DE GATO"
+    ],
+    "REQUERIDOENOBRA": [
+      "7-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "MONROY"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500154943"
+    ],
+    "ESTATUS": [
+      "ABIERTO"
+    ],
+    "COMENTARIO": [
+      "SE ACTUALIZARON PLANOS"
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "COMPRA ROLADORA"
+    ],
+    "REQUERIDOENOBRA": [
+      "1-Apr-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 12.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "7-Jan-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "4-Dec-2018"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "MEKANO"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500151238"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "CANCELERIA"
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "SUBCONTRATO CANCELERIA"
+    ],
+    "REQUERIDOENOBRA": [
+      "14-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 4.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "16-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "1-Jul-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "ANGEL DAVILA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500159213"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "ESCALERAS "
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "ESCALERAS DE CONCRETO "
+    ],
+    "REQUERIDOENOBRA": [
+      "3-Aug-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 4.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "6-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "PENDIENTE FECHA"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#VALUE!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "OBRA CIVIL"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      "ABIERTO"
+    ],
+    "COMENTARIO": [
+      "SE CONTRATARA CON QUIEN QUEDE EN PORTONES"
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "ESCALERA MARINA"
+    ],
+    "REQUERIDOENOBRA": [
+      "3-Aug-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 5.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "29-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "PENDIENTE FECHA"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#VALUE!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "HERRERIA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      "PROCESO"
+    ],
+    "COMENTARIO": [
+      "SE CONTRATARA CON QUIEN QUEDE EN PORTONES"
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "PUERTAS"
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "PUERTAS HERRERIA "
+    ],
+    "REQUERIDOENOBRA": [
+      "31-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 5.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "26-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "26-Sep-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "HERRERIA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      "PROCESO"
+    ],
+    "COMENTARIO": [
+      "EN REVISION POR HIT"
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "INSTALACIONES "
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "TRINCHERA PLUVIAL "
+    ],
+    "REQUERIDOENOBRA": [
+      "7-Aug-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "24-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "26-Mar-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "OBRA CIVIL "
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500159133 4500159134"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "TUBERIA PLUVIAL "
+    ],
+    "REQUERIDOENOBRA": [
+      "7-Aug-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 4.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "10-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "13-Mar-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "OBRA CIVIL "
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500159133 4500159134"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "VENTILADORES ATMOSFERICOS"
+    ],
+    "REQUERIDOENOBRA": [
+      "18-May-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 5.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "13-Apr-2019"
+    ],
+    "FORMADEPAGO": [
+      "CHEQUE"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "1-Apr-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "DAVID ROJAS"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500155113 4500155121"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "DRENAJE SANITARIO "
+    ],
+    "REQUERIDOENOBRA": [
+      "19-Aug-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 4.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "22-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "11-Feb-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "OBRA CIVIL "
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500159133 4500159134"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "TRINCHERAS PARA INSTALACIONES "
+    ],
+    "REQUERIDOENOBRA": [
+      "7-Aug-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "24-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "3-Apr-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "OBRA CIVIL "
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500159133 4500159134"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "EXTERIORES"
+    ],
+    "REQUERIDOENOBRA": [
+      ""
+    ],
+    "SUBMITTAL": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      ""
+    ],
+    "FECHADEPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      ""
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      ""
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      ""
+    ],
+    "COMENTARIO": [
+      ""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "BANQUETAS"
+    ],
+    "REQUERIDOENOBRA": [
+      "4-Nov-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "21-Oct-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "9-Oct-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "OBRA CIVIL "
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      "PROCESO "
+    ],
+    "COMENTARIO": [
+      "\"EN REVISION "
+    ],
+    "undefined": [
+      " NO HAY PLANOS FINALES\""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "GUARNICIONES"
+    ],
+    "REQUERIDOENOBRA": [
+      "4-Nov-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "21-Oct-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "9-Oct-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "OBRA CIVIL "
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      "PROCESO "
+    ],
+    "COMENTARIO": [
+      "\"EN REVISION "
+    ],
+    "undefined": [
+      " NO HAY PLANOS FINALES\""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "PAVIMENTOS CONCRETO"
+    ],
+    "REQUERIDOENOBRA": [
+      "4-Nov-2019"
+    ],
+    "SUBMITTAL": [
+      "NO"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 4.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "7-Oct-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "30-Sep-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "OBRA CIVIL "
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      "PROCESO "
+    ],
+    "COMENTARIO": [
+      "\"EN REVISION "
+    ],
+    "undefined": [
+      " NO HAY PLANOS FINALES\""
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "ACCESO PPAL PORTON CORREDIZO "
+    ],
+    "REQUERIDOENOBRA": [
+      "31-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 5.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "26-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "26-Sep-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "HERRERIA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      "PROCESO "
+    ],
+    "COMENTARIO": [
+      "EN REVISION POR HIT"
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "BARDA PERIMETRAL"
+    ],
+    "REQUERIDOENOBRA": [
+      "18-Mar-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 4.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "18-Feb-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "13-Feb-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "JH"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      "4500153976"
+    ],
+    "ESTATUS": [
+      "CERRADO"
+    ],
+    "COMENTARIO": [
+      "REACTIVO EL 25 Septiembre"
+    ]
+  },
+  {
+    "DESCRIPCION": [
+      "BARDA PERIMETRAL PUNTO 2 AL 3"
+    ],
+    "REQUERIDOENOBRA": [
+      "10-Oct-2019"
+    ],
+    "SUBMITTAL": [
+      "SI"
+    ],
+    "TIEMPOENTREGAMASCRITICO": [
+      " 2.00 "
+    ],
+    "FECHADEPEDIDO": [
+      "26-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CADENAS"
+    ],
+    "FECHAENQUESEDEBECOLOCARPEDIDO": [
+      "26-Sep-2019"
+    ],
+    "DIASFALTANTESPARARELIZARPEDIDO": [
+      "#REF!"
+    ],
+    "CUANTIFICACIONREQUERIDAPARAELDIA:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACION": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "PROVEEDORoCONTRATISTA": [
+      "JH"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "MG"
+    ],
+    "PEDIDO": [
+      ""
+    ],
+    "ESTATUS": [
+      "PROCESO "
+    ],
+    "COMENTARIO": [
+      "\"Reactivo el 25 SEPT"
+    ],
+    "undefined": [
+      " no se habia contratado porque posiblemente era una deductiva\""
+    ]
+  }
+]

@@ -1,0 +1,5002 @@
+[
+  {
+    "No.": [
+      "101.00"
+    ],
+    "FRENTE": [
+      "REQ GRAL"
+    ],
+    "DESCRIPCIÓN": [
+      "CASETA DE OBRA"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "0.50"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "27-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "26-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "102.00"
+    ],
+    "FRENTE": [
+      "REQ GRAL"
+    ],
+    "DESCRIPCIÓN": [
+      "BAÑOS MOVILES"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "0.50"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "27-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "27-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "HOLD"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "COTIZAR 5 SANITARIOS"
+    ]
+  },
+  {
+    "No.": [
+      "103.00"
+    ],
+    "FRENTE": [
+      "REQ GRAL"
+    ],
+    "DESCRIPCIÓN": [
+      "TAPIALES"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "17-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "10-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "1-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "HOLD"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "\"SE REVISARA SI SE REQUIEREN"
+    ],
+    "undefined": [
+      " CONFIRMAR EN QUÉ AREA\""
+    ]
+  },
+  {
+    "No.": [
+      "104.00"
+    ],
+    "FRENTE": [
+      "REQ GRAL"
+    ],
+    "DESCRIPCIÓN": [
+      "LIMPIEZA"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "15-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "8-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "1-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "105.00"
+    ],
+    "FRENTE": [
+      "REQ GRAL"
+    ],
+    "DESCRIPCIÓN": [
+      "CONTENEDORES PARA DESECHOS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "15-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "8-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "1-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "106.00"
+    ],
+    "FRENTE": [
+      "REQ GRAL"
+    ],
+    "DESCRIPCIÓN": [
+      "DEMOLICION Y DESMANTELAMIENTOS PISO PLANTA 3"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "15-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "8-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "8-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "107.00"
+    ],
+    "FRENTE": [
+      "REQ GRAL"
+    ],
+    "DESCRIPCIÓN": [
+      "DEMOLICION Y DESMANTELAMIENTOS TALLER MECANICO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "26-Aug-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "19-Aug-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "21-Aug-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "108.00"
+    ],
+    "FRENTE": [
+      "REQ GRAL"
+    ],
+    "DESCRIPCIÓN": [
+      "SEGURO DE RESPONSABILIDAD CIVIL"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "24-Jun-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "17-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "CHEQUE"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "8-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "SE ENVIÓ CARTA COBERTURA"
+    ]
+  },
+  {
+    "No.": [
+      "109.00"
+    ],
+    "FRENTE": [
+      "REQ GRAL"
+    ],
+    "DESCRIPCIÓN": [
+      "LABORATORIO CONTROL DE CALIDAD "
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "23-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "16-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "16-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "110.00"
+    ],
+    "FRENTE": [
+      "REQ GRAL"
+    ],
+    "DESCRIPCIÓN": [
+      "TOPOGRAFÍA EN OBRA"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "22-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "15-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "16-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "201.00"
+    ],
+    "FRENTE": [
+      "INSUMOS"
+    ],
+    "DESCRIPCIÓN": [
+      "VARILLA CORRUGADA VARIAS MEDIDAS (3/8\"\" A 1\"\") "
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "29-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "22-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "22-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "HOME DEPOT"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "202.00"
+    ],
+    "FRENTE": [
+      "INSUMOS"
+    ],
+    "DESCRIPCIÓN": [
+      "VARILLA LISA PARA PASAJUNTAS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "25-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "18-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "18-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "ACEROMEX"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "202.00"
+    ],
+    "FRENTE": [
+      "INSUMOS"
+    ],
+    "DESCRIPCIÓN": [
+      "SUMINISTRO DE ANCLAS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "20-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "13-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "13-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "ROSCATOR"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "SE ENVIARÁN A OBRA SEMANA DEL 19 DE SEP"
+    ]
+  },
+  {
+    "No.": [
+      "203.00"
+    ],
+    "FRENTE": [
+      "INSUMOS"
+    ],
+    "DESCRIPCIÓN": [
+      "ALAMBRE RECOCIDO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "29-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "22-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "22-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "HOME DEPOT"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "204.00"
+    ],
+    "FRENTE": [
+      "INSUMOS"
+    ],
+    "DESCRIPCIÓN": [
+      "SUMINISTRO DE CONCRETO PREMEZCLADO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "29-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "22-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "CREDITO"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "22-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "CEMEX"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "205.0"
+    ],
+    "FRENTE": [
+      "INSUMOS"
+    ],
+    "DESCRIPCIÓN": [
+      "ESCALERILLA PARA BLOCK "
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "30-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CREDITO"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "23-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "PENDIENTE CONFIRMAR SI SE REQUERIRA ESCALERILLA"
+    ]
+  },
+  {
+    "No.": [
+      "206.0"
+    ],
+    "FRENTE": [
+      "INSUMOS"
+    ],
+    "DESCRIPCIÓN": [
+      "JUNTAS EXPANSION PARA BLOCK"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "30-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CREDITO"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "23-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "SE ENVIARÁ REQUISICION 19 SEPT"
+    ]
+  },
+  {
+    "No.": [
+      "207.0"
+    ],
+    "FRENTE": [
+      "INSUMOS"
+    ],
+    "DESCRIPCIÓN": [
+      "SUMINISTRO DE BLOCK"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "30-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CREDITO"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "23-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PROCESO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "SE ENVIARÁ REQUISICION 19 SEPT"
+    ]
+  },
+  {
+    "No.": [
+      "208.0"
+    ],
+    "FRENTE": [
+      "INSUMOS"
+    ],
+    "DESCRIPCIÓN": [
+      "SUMINISTRO DE TABIQUE"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "30-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "CREDITO"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "23-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PROCESO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "SE ENVIARÁ REQUISICION 19 SEPT"
+    ]
+  },
+  {
+    "No.": [
+      "3.0.1"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "EXTERIORES"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.101"
+    ],
+    "FRENTE": [
+      "SITEWORK"
+    ],
+    "DESCRIPCIÓN": [
+      "TERRACERÍAS PLANTA 3"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "15-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "8-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "8-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.102"
+    ],
+    "FRENTE": [
+      "SITEWORK"
+    ],
+    "DESCRIPCIÓN": [
+      "TERRACERÍAS CUARTO MECANICO Y PLANTA DE EMERGENCIA"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "6-Aug-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "30-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "30-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "\"EN ESPERA DE COTIZACIONES"
+    ],
+    "undefined": [
+      " ENTREGAN 30 DE JULIO - 1 DE AGOSTO\""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.103"
+    ],
+    "FRENTE": [
+      "SITEWORK"
+    ],
+    "DESCRIPCIÓN": [
+      "PAVIMENTOS DE CONCRETO EN PLANTA 3"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "29-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "22-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "9-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "JOSE RAMOS"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.2"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "OBRA CIVIL"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.201"
+    ],
+    "FRENTE": [
+      "OBRA CIVIL"
+    ],
+    "DESCRIPCIÓN": [
+      "OBRA CIVIL CIMENTACION "
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "2-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "26-Aug-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "19-Aug-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.202"
+    ],
+    "FRENTE": [
+      "OBRA CIVIL"
+    ],
+    "DESCRIPCIÓN": [
+      "OBRA CIVIL CIMENTACION  BASE TANQUES"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "30-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "23-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "ENVIAR PLANOS A JOSE RAMOS PARA COTIZAR"
+    ]
+  },
+  {
+    "No.": [
+      "3.0.203"
+    ],
+    "FRENTE": [
+      "OBRA CIVIL"
+    ],
+    "DESCRIPCIÓN": [
+      "OBRA CIVIL MUROS DE BLOCK "
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "30-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "23-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PROCESO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "ENVIAR PLANOS A JOSE RAMOS PARA COTIZAR"
+    ]
+  },
+  {
+    "No.": [
+      "3.0.204"
+    ],
+    "FRENTE": [
+      "OBRA CIVIL"
+    ],
+    "DESCRIPCIÓN": [
+      "OBRA CIVIL MUROS DE TABIQUE"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "30-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "23-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PROCESO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "ENVIAR PLANOS A JOSE RAMOS PARA COTIZAR"
+    ]
+  },
+  {
+    "No.": [
+      "3.0.205"
+    ],
+    "FRENTE": [
+      "OBRA CIVIL"
+    ],
+    "DESCRIPCIÓN": [
+      "OBRA CIVIL PARA MEZANINE"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "2-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "26-Aug-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "19-Aug-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.206"
+    ],
+    "FRENTE": [
+      "OBRA CIVIL"
+    ],
+    "DESCRIPCIÓN": [
+      "HABILITADO DE ACERO ENTREPISO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "2-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "26-Aug-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "19-Aug-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.207"
+    ],
+    "FRENTE": [
+      "OBRA CIVIL"
+    ],
+    "DESCRIPCIÓN": [
+      "OBRA CIVIL BASES DE CONCRETO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "24-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.208"
+    ],
+    "FRENTE": [
+      "OBRA CIVIL"
+    ],
+    "DESCRIPCIÓN": [
+      "OBRA CIVIL TRINCHERA CONCRETO SUBESTACION"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "30-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "23-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "NO HAY DISEÑO"
+    ]
+  },
+  {
+    "No.": [
+      "3.0.209"
+    ],
+    "FRENTE": [
+      "OBRA CIVIL"
+    ],
+    "DESCRIPCIÓN": [
+      "OBRA CIVIL MURO CONTENCION "
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "24-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "JOSE RAMOS"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "EN ESPERA DE COTIZACION"
+    ]
+  },
+  {
+    "No.": [
+      "3.0.210"
+    ],
+    "FRENTE": [
+      "OBRA CIVIL"
+    ],
+    "DESCRIPCIÓN": [
+      "PINTURA DE MUROS DE BLOCK "
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "21-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "14-Oct-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "7-Oct-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.211"
+    ],
+    "FRENTE": [
+      "OBRA CIVIL"
+    ],
+    "DESCRIPCIÓN": [
+      "REPOSICION DE FIRME EN CENTRO CAPACITACION Y PLANTA 2"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "24-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "HOLD"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.3"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "ESTRUCTURA Y LAMINACION"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.301"
+    ],
+    "FRENTE": [
+      "ESTRUCTURA Y LAMINACION"
+    ],
+    "DESCRIPCIÓN": [
+      "REFUERZO Y ESTRUCTURA PARA TORRES DE ENFRIAMIENTO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "18-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "11-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "11-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PROCESO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "SE ENVIARON PLANOS PARA COTIZAR"
+    ]
+  },
+  {
+    "No.": [
+      "3.0.302"
+    ],
+    "FRENTE": [
+      "ESTRUCTURA Y LAMINACION"
+    ],
+    "DESCRIPCIÓN": [
+      "ESTRUCTURA METÁLICA Y MEZANINE PARA CUARTO MECANICO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "30-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "2.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "16-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "17-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PROCESO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.303"
+    ],
+    "FRENTE": [
+      "ESTRUCTURA Y LAMINACION"
+    ],
+    "DESCRIPCIÓN": [
+      "ESTRUCTURA METALICA CENTRO CAPACITACION P/ MUROS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "15-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "8-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "8-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "HOLD"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "EN HOLD"
+    ]
+  },
+  {
+    "No.": [
+      "3.0.304"
+    ],
+    "FRENTE": [
+      "ESTRUCTURA Y LAMINACION"
+    ],
+    "DESCRIPCIÓN": [
+      "LIMPIEZA Y PINTURA DE ESTRUCTURA METALICA EN CUARTO MECANICO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "30-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "17-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PROCESO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.305"
+    ],
+    "FRENTE": [
+      "ESTRUCTURA Y LAMINACION"
+    ],
+    "DESCRIPCIÓN": [
+      "\"LAMINA KR 18"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      " MUROS DE LÁMINA Y MOLDURAS EN CUARTO MECANICO Y DESMANTELAMIENTO\""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "30-Sep-2019"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "1.00"
+    ],
+    "FORMADEPAGO": [
+      "23-Sep-2019"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "NAFINSA"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "17-Sep-2019"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      "#REF!"
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "TBD"
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      "PROCESO"
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ],
+    "undefined": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.4"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "HERRERIA"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.401"
+    ],
+    "FRENTE": [
+      "HERRERIA"
+    ],
+    "DESCRIPCIÓN": [
+      "ESCALERA ACCESO CUBIERTA TORRES ENFRIAMIENTO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "24-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "6.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "13-Aug-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "13-Aug-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "HOLD"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "\"EL CLIENTE ESTÁ REVISANDO LA INFORMACIÓN"
+    ],
+    "undefined": [
+      " PENDIENTE DEFINIR UBICACION\""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.402"
+    ],
+    "FRENTE": [
+      "HERRERIA"
+    ],
+    "DESCRIPCIÓN": [
+      "MODIFICACION ESCALERA PISO PLANTA 3"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "31-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "17-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "CEBALLOS"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "OBRA"
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.403"
+    ],
+    "FRENTE": [
+      "HERRERIA"
+    ],
+    "DESCRIPCIÓN": [
+      "GUARDA LUMINARIA PAVIMENTO "
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "31-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "17-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "CEBALLOS"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "OBRA"
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.404"
+    ],
+    "FRENTE": [
+      "HERRERIA"
+    ],
+    "DESCRIPCIÓN": [
+      "BARANDAL DE TUBO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "9-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "2-Oct-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "2-Oct-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.405"
+    ],
+    "FRENTE": [
+      "HERRERIA"
+    ],
+    "DESCRIPCIÓN": [
+      "LOUVER EN MURO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "9-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "2-Oct-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "2-Oct-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.406"
+    ],
+    "FRENTE": [
+      "HERRERIA"
+    ],
+    "DESCRIPCIÓN": [
+      "ESCALERA PARA MEZANINE"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "9-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "2-Oct-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "25-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PROCESO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.407"
+    ],
+    "FRENTE": [
+      "HERRERIA"
+    ],
+    "DESCRIPCIÓN": [
+      "BOLARDOS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "9-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "2-Oct-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "2-Oct-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.5"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "IMPERMABILIZACION"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.501"
+    ],
+    "FRENTE": [
+      "IMPERMEABILIZACION"
+    ],
+    "DESCRIPCIÓN": [
+      "SELLO DE PENETRACIONES  Y MEMBRANA TERMOPLASTICA EN CENTRO CAPACITACION"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "26-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "19-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "12-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "CANO"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "HOLD"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "CONFIRMAR FECHA REQUERIDO EN OBRA"
+    ]
+  },
+  {
+    "No.": [
+      "3.0.6"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "ABERTURAS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "3.0.601"
+    ],
+    "FRENTE": [
+      "ABERTURAS"
+    ],
+    "DESCRIPCIÓN": [
+      "PUERTAS METALICAS PEATONALES"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "7-Nov-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "8.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "12-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "25-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PROCESO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "CONFIRMAR SI TODAS LAS PUERTAS QUE SE CONTRATARÁN SON LAS QUE APARECEN EN PLANO ACTUALMENTE"
+    ]
+  },
+  {
+    "No.": [
+      "3.0.602"
+    ],
+    "FRENTE": [
+      "ABERTURAS"
+    ],
+    "DESCRIPCIÓN": [
+      "RE INSTALACION DE CORTINA METALICA EXISTENTE"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "7-Nov-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "4.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "10-Oct-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "2-Oct-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "ACABADOS Y ESPECIALIDADES"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.1"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "ACABADOS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.101"
+    ],
+    "FRENTE": [
+      "ACABADOS"
+    ],
+    "DESCRIPCIÓN": [
+      "MUROS FALSOS Y PLAFONES  OFICINAS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "4-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "27-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "27-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.102"
+    ],
+    "FRENTE": [
+      "ACABADOS"
+    ],
+    "DESCRIPCIÓN": [
+      "\"PINTURA EPOXICA EN PISOS CUARTO MECANICO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      " SUBESTACION\""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "4-Oct-2019"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "1.00"
+    ],
+    "FORMADEPAGO": [
+      "27-Sep-2019"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "NAFINSA"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "27-Sep-2019"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      "#REF!"
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      "TBD"
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      "PENDIENTE"
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ],
+    "undefined": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.103"
+    ],
+    "FRENTE": [
+      "ACABADOS"
+    ],
+    "DESCRIPCIÓN": [
+      "MORTERO EPOXICO EN PISOS CUARTO MECANICO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "4-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "27-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "27-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.104"
+    ],
+    "FRENTE": [
+      "ACABADOS"
+    ],
+    "DESCRIPCIÓN": [
+      "DENSIFICADOR DE CONCRETO EN PISO CUARTO MECANICO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "4-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "27-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "27-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.105"
+    ],
+    "FRENTE": [
+      "ACABADOS"
+    ],
+    "DESCRIPCIÓN": [
+      "SUMINISTRO DE PISOS CERAMICOS CENTRO CAPACITACION"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "15-Aug-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "2.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "1-Aug-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "27-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "HOLD"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.106"
+    ],
+    "FRENTE": [
+      "ACABADOS"
+    ],
+    "DESCRIPCIÓN": [
+      "ZOCLO VINILICO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "4-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "27-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "27-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.107"
+    ],
+    "FRENTE": [
+      "ACABADOS"
+    ],
+    "DESCRIPCIÓN": [
+      "PINTURA VINILICA EN MUROS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "4-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "27-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "27-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.108"
+    ],
+    "FRENTE": [
+      "ACABADOS"
+    ],
+    "DESCRIPCIÓN": [
+      "SUMINISTRO DE BOQUILLA Y ADHESIVO PARA PISOS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "4-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "27-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "27-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.2"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "ESPECIALIDADES"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.201"
+    ],
+    "FRENTE": [
+      "ESPECIALIDADES"
+    ],
+    "DESCRIPCIÓN": [
+      "SEÑALIZACION"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "14-Nov-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "7-Nov-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "31-Oct-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.202"
+    ],
+    "FRENTE": [
+      "ESPECIALIDADES"
+    ],
+    "DESCRIPCIÓN": [
+      "ACCESORIOS PARA SANITARIOS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "14-Nov-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "7-Nov-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "31-Oct-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.203"
+    ],
+    "FRENTE": [
+      "ESPECIALIDADES"
+    ],
+    "DESCRIPCIÓN": [
+      "MAMPARA PARA BAÑO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "14-Nov-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "4.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "17-Oct-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "9-Oct-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.204"
+    ],
+    "FRENTE": [
+      "ESPECIALIDADES"
+    ],
+    "DESCRIPCIÓN": [
+      "MUROS MOVILES INTERIORES EN CENTRO CAPACITACION"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "7-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "10.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "29-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "26-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CANCELADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "\"CENTRO DE CAPACITACION EN HOLD"
+    ],
+    "undefined": [
+      " EL 19 DE JULIO SE CONFIRMA SI SE EJECUTA EL ALCANCE O NO\""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.205"
+    ],
+    "FRENTE": [
+      "ESPECIALIDADES"
+    ],
+    "DESCRIPCIÓN": [
+      "MOBILIARIO PARA OFICINAS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "14-Nov-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "7.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "26-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "27-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.206"
+    ],
+    "FRENTE": [
+      "ESPECIALIDADES"
+    ],
+    "DESCRIPCIÓN": [
+      "DESINSTALACIÓN DE GRÚA"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "30-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "23-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "27-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PROCESO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "4.0.207"
+    ],
+    "FRENTE": [
+      "ESPECIALIDADES"
+    ],
+    "DESCRIPCIÓN": [
+      "ESPEJOS EN BAÑOS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "14-Nov-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "7-Nov-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "31-Oct-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "INSTALACIONES"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.1"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "MECANICO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.101"
+    ],
+    "FRENTE": [
+      "MECÁNICO"
+    ],
+    "DESCRIPCIÓN": [
+      "SUMINISTRO DE COMPRESOR"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "5-Nov-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "19.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "25-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "25-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "ATLAS"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.102"
+    ],
+    "FRENTE": [
+      "MECÁNICO"
+    ],
+    "DESCRIPCIÓN": [
+      "TORRE DE ENFRIAMIENTO Y MANTENIMIENTO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "6-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "8.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "12-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "12-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "SE PUEDE COLOCAR OC DE TORRE ENFRIAMIENTO"
+    ]
+  },
+  {
+    "No.": [
+      "5.0.103"
+    ],
+    "FRENTE": [
+      "MECÁNICO"
+    ],
+    "DESCRIPCIÓN": [
+      "SUMINISTRO DE MUEBLES SANITARIOS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "4-Oct-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "2.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "20-Sep-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "11-Sep-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.104"
+    ],
+    "FRENTE": [
+      "MECÁNICO"
+    ],
+    "DESCRIPCIÓN": [
+      "SUBCONTRATO DE AIRE COMPRIMIDO Y AGUA DE PROCESO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "23-Aug-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "8.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "28-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "22-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "PICSA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.105"
+    ],
+    "FRENTE": [
+      "MECÁNICO"
+    ],
+    "DESCRIPCIÓN": [
+      "COMPRA DE BOMBAS TORRES ENFRIAMIENTO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "6-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "8.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "12-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "12-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "NO HAY DEFINICION DE BOMBAS"
+    ]
+  },
+  {
+    "No.": [
+      "5.0.106"
+    ],
+    "FRENTE": [
+      "MECÁNICO"
+    ],
+    "DESCRIPCIÓN": [
+      "COMPRA DE FILTRO PARA AGUA DE RETORNO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "6-Sep-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "8.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "12-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "12-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "SE PUEDE COLOCAR OC DE FILTRO DE ARENA"
+    ]
+  },
+  {
+    "No.": [
+      "5.0.107"
+    ],
+    "FRENTE": [
+      "MECÁNICO"
+    ],
+    "DESCRIPCIÓN": [
+      "COMPRA DE VÁLVULAS REGULADORAS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "23-Aug-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "4.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "26-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "12-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.108"
+    ],
+    "FRENTE": [
+      "MECÁNICO"
+    ],
+    "DESCRIPCIÓN": [
+      "COMPRA DE TUBERÍAS Y CONEXIONES MECANICAS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "23-Aug-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "5.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "19-Jul-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "12-Jul-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "PENDIENTE"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.109"
+    ],
+    "FRENTE": [
+      "MECÁNICO"
+    ],
+    "DESCRIPCIÓN": [
+      "COMPRA DE TUBERÍAS Y CONEXIONES MECÁNICAS - PP3"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "17-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.110"
+    ],
+    "FRENTE": [
+      "MECÁNICO"
+    ],
+    "DESCRIPCIÓN": [
+      "SUBCONTRATO PLUVIAL"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "25-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "PICSA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "NO HAY INFORMACION DISEÑO"
+    ]
+  },
+  {
+    "No.": [
+      "5.0.2"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "AIRE ACONDICIONADO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.201"
+    ],
+    "FRENTE": [
+      "HVAC"
+    ],
+    "DESCRIPCIÓN": [
+      "SUBCONTRATO HVAC "
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "25-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "DAVID ROJAS"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "SE COLOCARÁ OC 1 DE AGOSTO"
+    ]
+  },
+  {
+    "No.": [
+      "5.0.3"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "ELÉCTRICO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.301"
+    ],
+    "FRENTE": [
+      "ELÉCTRICO"
+    ],
+    "DESCRIPCIÓN": [
+      "SUBCONTRATO ELECTRICO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "25-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "SIECSA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "COLOCAR PEDIDO SEMANA DEL 9 DE JULIO"
+    ]
+  },
+  {
+    "No.": [
+      "5.0.302"
+    ],
+    "FRENTE": [
+      "ELÉCTRICO"
+    ],
+    "DESCRIPCIÓN": [
+      "COMPRA DE TRANSFORMADORES"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "25-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TYASAMEX"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      "ANTICIPO PROGRAMADO"
+    ]
+  },
+  {
+    "No.": [
+      "5.0.303"
+    ],
+    "FRENTE": [
+      "ELÉCTRICO"
+    ],
+    "DESCRIPCIÓN": [
+      "COMPRA DE TABLERO PRINCIPAL SIEMENS"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "25-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.303"
+    ],
+    "FRENTE": [
+      "ELÉCTRICO"
+    ],
+    "DESCRIPCIÓN": [
+      "SUBCONTRATO ELECTRICO PLANTA DE EMERGENCIA"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "25-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "TBD"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.4"
+    ],
+    "FRENTE": [
+      ""
+    ],
+    "DESCRIPCIÓN": [
+      "SCI"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      ""
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FORMADEPAGO": [
+      ""
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      ""
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      ""
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      ""
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      ""
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.401"
+    ],
+    "FRENTE": [
+      "SISTEMAS ESPECIALES"
+    ],
+    "DESCRIPCIÓN": [
+      "SISTEMA CONTRA INCENDIO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "25-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "OMEGA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  },
+  {
+    "No.": [
+      "5.0.402"
+    ],
+    "FRENTE": [
+      "SISTEMAS ESPECIALES"
+    ],
+    "DESCRIPCIÓN": [
+      "COMPRA DE TUBERIAS SISTEMA CONTRA INCENDIO"
+    ],
+    "FECHADEREQUERIDOENOBRA": [
+      "1-Jul-2019"
+    ],
+    "TIEMPOENTREGAMASCRITICOSEM": [
+      "1.00"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDO": [
+      "24-Jun-2019"
+    ],
+    "FORMADEPAGO": [
+      "NAFINSA"
+    ],
+    "FECHALÍMITEPARACOLOCARPEDIDOINCLUYENDOANTICIPO": [
+      "25-Jun-2019"
+    ],
+    "DIASFALTANTESPARACOLOCARPEDIDO": [
+      "#REF!"
+    ],
+    "FECHAMÁXIMAPARARECIBIRLACUANTIFICACIÓN:": [
+      ""
+    ],
+    "RESPONSABLEDECUANTIFICACIÓN": [
+      ""
+    ],
+    "PROVEEDOR": [
+      "OMEGA"
+    ],
+    "RESPONSABLEDECOMPRA": [
+      ""
+    ],
+    "ESTATUSESTATUSDECOMPRA": [
+      "CONTRATADO"
+    ],
+    "No.DEPEDIDO": [
+      ""
+    ],
+    "FECHAREALDECOMPRA": [
+      ""
+    ],
+    "COMENTARIOS": [
+      ""
+    ]
+  }
+]

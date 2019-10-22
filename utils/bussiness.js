@@ -14,6 +14,11 @@ const convertSchedule = (source, target) => {
       const parts = task.WBS[0].split('.');
       parts.pop();
       const parent = parts.join('.');
+
+      //  Find model link
+      const ModelLinkObj = task.ExtendedAttribute ? task.ExtendedAttribute.filter(item => item.FieldID == "188743734") : []
+      
+      const ModelLink = ModelLinkObj.length > 0 ? ModelLinkObj[0].Value[0] : undefined
       return {
         parent,
         TaskID: task.UID[0],
@@ -23,7 +28,8 @@ const convertSchedule = (source, target) => {
         Duration: parseMSDateToDays(task.Duration[0]), 
         Progress: task.PercentComplete[0],
         WBS: task.WBS[0],
-        IsItem: task.Type[0] == "0"
+        IsItem: task.Type[0] == "0",
+        ModelLink: ModelLink
       }
     })
 
@@ -75,6 +81,6 @@ module.exports = {
   convertSchedule
 }
 
-convertSchedule('PROLOGIS PROGRAMA.xml', `b.496173fb-c600-4e9d-aeac-8aeb054999c2`);
-convertSchedule('PROGRAMA TRUPER.xml', `b.89a69405-af59-48b9-8864-2c6f1c1b206a`);
-convertSchedule('MasterPlan.xml', `b.f32621e9-e29e-45d4-b74b-96aff830e91b`);
+convertSchedule('CEDIS MEDLINE.xml', `b.57161f04-2cdb-4e93-8269-6e3210931fe5`);
+// convertSchedule('PROGRAMA TRUPER.xml', `b.89a69405-af59-48b9-8864-2c6f1c1b206a`);
+// convertSchedule('MasterPlan.xml', `b.f32621e9-e29e-45d4-b74b-96aff830e91b`);

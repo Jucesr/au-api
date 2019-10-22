@@ -101,6 +101,24 @@ const getIssues = (project_id) => {
   return issues[project_id];
 }
 
+const getModels = (project_id) => {
+  const models = JSON.parse(readFile('models.json'))
+  const items = models[project_id];
+
+  if(items){
+    return items.map(item => {
+      let buff = new Buffer(item.id);
+      let base64dataURN = buff.toString('base64');
+      return {
+        ...item,
+        urn: "urn:" + base64dataURN,
+      }
+    })
+  }else{
+    return []
+  }
+}
+
 module.exports = {
   getProjects,
   saveProjects,
@@ -108,5 +126,6 @@ module.exports = {
   getProjectFolders,
   getProjectFoldersPath,
   getBusinessUnits,
-  getIssues
+  getIssues,
+  getModels
 }

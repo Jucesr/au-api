@@ -12,4 +12,11 @@ Date: Oct 10, 2019
       * Get projects
       * Get Folder content
       * Store in cache items
+
+## V0.0.2
+Date: Oct 22, 2019
+  * [NEW] 
+    * Route to provide procument schedule.
+    * Construction schedule include a new property ModelLink
+    * Route to provide 3D models
       

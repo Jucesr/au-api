@@ -132,6 +132,22 @@ router.get('/project/:id/construction_schedule', async (req, res) => {
 
 });
 
+router.get('/project/:id/procument_schedule', async (req, res) => {
+  const {query, params} = req;
+  const project_id = params.id;
+  
+  const filepath = path.join(__dirname, '..', 'assets', 'programa_compra', `${project_id}.json`)
+
+  if(fs.existsSync(filepath)){
+    const file = fs.readFileSync(filepath)
+    res.send(JSON.parse(file))
+  }else{
+    res.send([])
+  }
+  console.log(`Procument Schedule was sent: ${project_id}`)
+
+});
+
 router.get('/project/:id/issues', async (req, res) => {
   const {query, params} = req;
   const project_id = params.id;
@@ -143,6 +159,24 @@ router.get('/project/:id/issues', async (req, res) => {
   res.send(issues)
   console.log(`${issues.length} Issues were sent. Project Id = ${project_id}`)
 
+});
+
+router.get('/project/:id/models', async (req, res) => {
+  const {query, params} = req;
+  const project_id = params.id;
+  
+  let items = Cache.getModels(project_id);
+
+  items = items ? items : [];
+
+  res.send(items)
+  console.log(`${items.length} Models were sent. Project Id = ${project_id}`)
+});
+
+router.get('/getTokenViewer', async (req, res) => {
+  const credentials = await oAuth2TwoLegged.authenticate()
+  res.send(credentials)
+  console.log(`A token for viewer was provied`)
 });
 
 module.exports = router;
