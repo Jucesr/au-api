@@ -21,6 +21,7 @@
         "Progress": "100",
         "WBS": "1.1",
         "IsItem": true,
+        "ActivityPhase": "PLA",
         "level": 1
       },
       {
@@ -33,6 +34,7 @@
         "Progress": "100",
         "WBS": "1.2",
         "IsItem": true,
+        "ActivityPhase": "PLA",
         "level": 1
       },
       {
@@ -45,6 +47,7 @@
         "Progress": "100",
         "WBS": "1.3",
         "IsItem": true,
+        "ActivityPhase": "PLA",
         "level": 1
       },
       {
@@ -57,6 +60,7 @@
         "Progress": "100",
         "WBS": "1.4",
         "IsItem": true,
+        "ActivityPhase": "PLA",
         "level": 1
       },
       {
@@ -69,6 +73,7 @@
         "Progress": "97",
         "WBS": "1.5",
         "IsItem": true,
+        "ActivityPhase": "PLA",
         "level": 1
       },
       {
@@ -81,6 +86,7 @@
         "Progress": "95",
         "WBS": "1.6",
         "IsItem": true,
+        "ActivityPhase": "PLA",
         "level": 1
       },
       {
@@ -105,6 +111,7 @@
             "Progress": "80",
             "WBS": "1.7.1",
             "IsItem": true,
+            "ActivityPhase": "PLA",
             "level": 2
           },
           {
@@ -129,6 +136,7 @@
                 "Progress": "44",
                 "WBS": "1.7.2.1",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -141,6 +149,7 @@
                 "Progress": "0",
                 "WBS": "1.7.2.2",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -153,6 +162,7 @@
                 "Progress": "83",
                 "WBS": "1.7.2.3",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -165,6 +175,7 @@
                 "Progress": "0",
                 "WBS": "1.7.2.4",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -177,6 +188,7 @@
                 "Progress": "76",
                 "WBS": "1.7.2.5",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -189,6 +201,7 @@
                 "Progress": "67",
                 "WBS": "1.7.2.6",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -201,6 +214,7 @@
                 "Progress": "33",
                 "WBS": "1.7.2.7",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -213,6 +227,7 @@
                 "Progress": "13",
                 "WBS": "1.7.2.8",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -225,6 +240,7 @@
                 "Progress": "87",
                 "WBS": "1.7.2.9",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               }
             ]
@@ -265,6 +281,7 @@
                 "Progress": "0",
                 "WBS": "1.8.1.1",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -277,6 +294,7 @@
                 "Progress": "0",
                 "WBS": "1.8.1.2",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -289,6 +307,7 @@
                 "Progress": "0",
                 "WBS": "1.8.1.3",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -301,6 +320,7 @@
                 "Progress": "0",
                 "WBS": "1.8.1.4",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               }
             ]
@@ -327,6 +347,7 @@
                 "Progress": "1",
                 "WBS": "1.8.2.1",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -339,6 +360,7 @@
                 "Progress": "0",
                 "WBS": "1.8.2.2",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -351,6 +373,7 @@
                 "Progress": "0",
                 "WBS": "1.8.2.3",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -363,6 +386,7 @@
                 "Progress": "0",
                 "WBS": "1.8.2.4",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -375,6 +399,7 @@
                 "Progress": "0",
                 "WBS": "1.8.2.5",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -387,6 +412,7 @@
                 "Progress": "0",
                 "WBS": "1.8.2.6",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -399,6 +425,7 @@
                 "Progress": "0",
                 "WBS": "1.8.2.7",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               }
             ]
@@ -425,6 +452,7 @@
                 "Progress": "100",
                 "WBS": "1.8.3.1",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -437,6 +465,7 @@
                 "Progress": "0",
                 "WBS": "1.8.3.2",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -449,6 +478,7 @@
                 "Progress": "0",
                 "WBS": "1.8.3.3",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -461,6 +491,7 @@
                 "Progress": "0",
                 "WBS": "1.8.3.4",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -473,6 +504,7 @@
                 "Progress": "0",
                 "WBS": "1.8.3.5",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -485,6 +517,7 @@
                 "Progress": "0",
                 "WBS": "1.8.3.6",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               }
             ]
@@ -511,6 +544,7 @@
                 "Progress": "0",
                 "WBS": "1.8.4.1",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -523,6 +557,7 @@
                 "Progress": "0",
                 "WBS": "1.8.4.2",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -535,6 +570,7 @@
                 "Progress": "0",
                 "WBS": "1.8.4.3",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -547,6 +583,7 @@
                 "Progress": "0",
                 "WBS": "1.8.4.4",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -559,6 +596,7 @@
                 "Progress": "0",
                 "WBS": "1.8.4.5",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -571,6 +609,7 @@
                 "Progress": "0",
                 "WBS": "1.8.4.6",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               }
             ]
@@ -597,6 +636,7 @@
                 "Progress": "95",
                 "WBS": "1.8.5.1",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -621,6 +661,7 @@
                     "Progress": "100",
                     "WBS": "1.8.5.2.1",
                     "IsItem": true,
+                    "ActivityPhase": "PLA",
                     "level": 4
                   },
                   {
@@ -633,6 +674,7 @@
                     "Progress": "0",
                     "WBS": "1.8.5.2.2",
                     "IsItem": true,
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -645,6 +687,7 @@
                     "Progress": "0",
                     "WBS": "1.8.5.2.3",
                     "IsItem": true,
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -657,6 +700,7 @@
                     "Progress": "0",
                     "WBS": "1.8.5.2.4",
                     "IsItem": true,
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -669,6 +713,7 @@
                     "Progress": "0",
                     "WBS": "1.8.5.2.5",
                     "IsItem": true,
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -681,6 +726,7 @@
                     "Progress": "0",
                     "WBS": "1.8.5.2.6",
                     "IsItem": true,
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -693,6 +739,7 @@
                     "Progress": "0",
                     "WBS": "1.8.5.2.7",
                     "IsItem": true,
+                    "ActivityPhase": "EXE",
                     "level": 4
                   }
                 ]
@@ -719,6 +766,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.3.1",
                     "IsItem": true,
+                    "ModelLink": "CDC_01",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -731,6 +780,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.3.2",
                     "IsItem": true,
+                    "ModelLink": "CDC_02",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -743,6 +794,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.3.3",
                     "IsItem": true,
+                    "ModelLink": "CDC_03",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -755,6 +808,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.3.4",
                     "IsItem": true,
+                    "ModelLink": "CDC_04",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -767,6 +822,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.3.5",
                     "IsItem": true,
+                    "ModelLink": "CDC_05",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -779,6 +836,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.3.6",
                     "IsItem": true,
+                    "ModelLink": "CDC_06",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -791,6 +850,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.3.7",
                     "IsItem": true,
+                    "ModelLink": "CDC_07",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -803,6 +864,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.3.8",
                     "IsItem": true,
+                    "ModelLink": "CDC_08",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   }
                 ]
@@ -829,6 +892,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.4.1",
                     "IsItem": true,
+                    "ModelLink": "OFT_01",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -841,6 +906,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.4.2",
                     "IsItem": true,
+                    "ModelLink": "OFT_02",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -853,6 +920,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.4.3",
                     "IsItem": true,
+                    "ModelLink": "OFT_03",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -865,6 +934,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.4.4",
                     "IsItem": true,
+                    "ModelLink": "OFT_04",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -877,6 +948,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.4.5",
                     "IsItem": true,
+                    "ModelLink": "OFT_05",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -889,6 +962,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.4.6",
                     "IsItem": true,
+                    "ModelLink": "OFT_06",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   },
                   {
@@ -901,6 +976,8 @@
                     "Progress": "0",
                     "WBS": "1.8.5.4.7",
                     "IsItem": true,
+                    "ModelLink": "OFT_07",
+                    "ActivityPhase": "EXE",
                     "level": 4
                   }
                 ]
@@ -915,6 +992,7 @@
                 "Progress": "0",
                 "WBS": "1.8.5.5",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -927,6 +1005,7 @@
                 "Progress": "0",
                 "WBS": "1.8.5.6",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               }
             ]
@@ -946,13 +1025,15 @@
               {
                 "parent": "1.8.6",
                 "TaskID": "53",
-                "TaskName": "Demoliciones",
+                "TaskName": "Edificio Existente",
                 "StartDate": "2019-07-17T21:00:00.000Z",
                 "EndDate": "2019-07-23T20:00:00.000Z",
                 "Duration": 5,
                 "Progress": "100",
                 "WBS": "1.8.6.1",
                 "IsItem": true,
+                "ModelLink": "PEX_01",
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -965,6 +1046,7 @@
                 "Progress": "100",
                 "WBS": "1.8.6.2",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -977,6 +1059,7 @@
                 "Progress": "100",
                 "WBS": "1.8.6.3",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -989,6 +1072,7 @@
                 "Progress": "100",
                 "WBS": "1.8.6.4",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               }
             ]
@@ -1015,6 +1099,7 @@
                 "Progress": "96",
                 "WBS": "1.8.7.1",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -1027,6 +1112,7 @@
                 "Progress": "96",
                 "WBS": "1.8.7.2",
                 "IsItem": true,
+                "ActivityPhase": "EXE",
                 "level": 3
               },
               {
@@ -1039,6 +1125,7 @@
                 "Progress": "0",
                 "WBS": "1.8.7.3",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               },
               {
@@ -1051,6 +1138,7 @@
                 "Progress": "0",
                 "WBS": "1.8.7.4",
                 "IsItem": true,
+                "ActivityPhase": "PLA",
                 "level": 3
               }
             ]

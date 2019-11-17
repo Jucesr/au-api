@@ -1,438 +1,1292 @@
 {
-  "b.496173fb-c600-4e9d-aeac-8aeb054999c2": [
-      {
-          "id": "70265380-32c4-4942-bf02-071a08253fda",
-          "type": "quality_issues",
-          "links": {
-              "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda"
-          },
-          "attributes": {
-              "created_at": "2019-10-10T22:20:54.347Z",
-              "synced_at": "2019-10-10T22:20:54.351Z",
-              "updated_at": "2019-10-10T22:20:54.349Z",
-              "close_version": null,
-              "closed_at": null,
-              "closed_by": null,
-              "created_by": "L5T8QNKZ77JA",
-              "opened_at": "2019-10-10T22:20:54.340Z",
-              "opened_by": "L5T8QNKZ77JA",
-              "updated_by": "L5T8QNKZ77JA",
-              "starting_version": null,
-              "title": "Se colocaron mal las zapatas",
-              "description": "",
-              "location_description": null,
-              "markup_metadata": null,
-              "tags": null,
-              "resource_urns": null,
-              "target_urn": null,
-              "target_urn_page": null,
-              "collection_urn": null,
-              "due_date": "2019-10-14T00:00:00.000Z",
-              "identifier": 2,
-              "status": "open",
-              "assigned_to": null,
-              "assigned_to_type": "",
-              "answer": null,
-              "answered_at": null,
-              "answered_by": null,
-              "pushpin_attributes": null,
-              "snapshot_urn": null,
-              "owner": "L5T8QNKZ77JA",
-              "issue_type_id": null,
-              "issue_type": null,
-              "issue_sub_type": null,
-              "root_cause_id": null,
-              "root_cause": null,
-              "quality_urns": null,
-              "permitted_statuses": [
-                  "answered",
-                  "closed",
-                  "void"
-              ],
-              "permitted_attributes": [
-                  "answer",
-                  "assigned_to",
-                  "assigned_to_type",
-                  "description",
-                  "due_date",
-                  "location_description",
-                  "trades",
-                  "owner",
-                  "issue_type",
-                  "issue_type_id",
-                  "root_cause",
-                  "root_cause_id",
-                  "title",
-                  "status",
-                  "sheet_metadata",
-                  "lbs_location",
-                  "pushpin_attributes",
-                  "snapshot_urn",
-                  "close_version",
-                  "comments_attributes",
-                  "attachments_attributes",
-                  "resource_urns",
-                  "markup_metadata",
-                  "updated_at",
-                  "tags",
-                  "collection_urn",
-                  "custom_attributes",
-                  "ng_issue_subtype_id"
-              ],
-              "comment_count": 0,
-              "attachment_count": 0,
-              "permitted_actions": [
-                  "add_comment",
-                  "add_attachment"
-              ],
-              "sheet_metadata": null,
-              "lbs_location": null,
-              "ng_issue_subtype_id": "928619b6-5bc4-40d2-9f66-0b2084ba1400",
-              "ng_issue_type_id": "66c563d5-0650-488c-820b-d1f40f678bf5",
-              "issue_template_id": null,
-              "custom_attributes": [],
-              "trades": null,
-              "comments_attributes": null,
-              "attachments_attributes": null
-          },
-          "relationships": {
-              "container": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/container",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/container"
-                  }
-              },
-              "attachments": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/attachments",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/attachments"
-                  }
-              },
-              "changesets": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/changesets",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/changesets"
-                  }
-              },
-              "comments": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/comments",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/comments"
-                  }
-              },
-              "activity_batches": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/activity-batches",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/activity-batches"
-                  }
-              },
-              "root_cause_obj": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/root-cause-obj",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/root-cause-obj"
-                  }
-              },
-              "issue_type_obj": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/relationships/issue-type-obj",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/70265380-32c4-4942-bf02-071a08253fda/issue-type-obj"
-                  }
-              }
-          }
-      },
-      {
-          "id": "84115b7f-dba2-43ab-93e1-94660ccc4590",
-          "type": "quality_issues",
-          "links": {
-              "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590"
-          },
-          "attributes": {
-              "created_at": "2019-10-10T22:19:45.613Z",
-              "synced_at": "2019-10-10T22:19:45.617Z",
-              "updated_at": "2019-10-10T22:19:45.614Z",
-              "close_version": null,
-              "closed_at": null,
-              "closed_by": null,
-              "created_by": "L5T8QNKZ77JA",
-              "opened_at": "2019-10-10T22:19:45.605Z",
-              "opened_by": "L5T8QNKZ77JA",
-              "updated_by": "L5T8QNKZ77JA",
-              "starting_version": null,
-              "title": "Falta detalle en planos.",
-              "description": "",
-              "location_description": null,
-              "markup_metadata": null,
-              "tags": null,
-              "resource_urns": null,
-              "target_urn": null,
-              "target_urn_page": null,
-              "collection_urn": null,
-              "due_date": "2019-10-10T00:00:00.000Z",
-              "identifier": 1,
-              "status": "open",
-              "assigned_to": null,
-              "assigned_to_type": "",
-              "answer": null,
-              "answered_at": null,
-              "answered_by": null,
-              "pushpin_attributes": null,
-              "snapshot_urn": null,
-              "owner": "L5T8QNKZ77JA",
-              "issue_type_id": null,
-              "issue_type": null,
-              "issue_sub_type": null,
-              "root_cause_id": null,
-              "root_cause": null,
-              "quality_urns": null,
-              "permitted_statuses": [
-                  "answered",
-                  "closed",
-                  "void"
-              ],
-              "permitted_attributes": [
-                  "answer",
-                  "assigned_to",
-                  "assigned_to_type",
-                  "description",
-                  "due_date",
-                  "location_description",
-                  "trades",
-                  "owner",
-                  "issue_type",
-                  "issue_type_id",
-                  "root_cause",
-                  "root_cause_id",
-                  "title",
-                  "status",
-                  "sheet_metadata",
-                  "lbs_location",
-                  "pushpin_attributes",
-                  "snapshot_urn",
-                  "close_version",
-                  "comments_attributes",
-                  "attachments_attributes",
-                  "resource_urns",
-                  "markup_metadata",
-                  "updated_at",
-                  "tags",
-                  "collection_urn",
-                  "custom_attributes",
-                  "ng_issue_subtype_id"
-              ],
-              "comment_count": 0,
-              "attachment_count": 0,
-              "permitted_actions": [
-                  "add_comment",
-                  "add_attachment"
-              ],
-              "sheet_metadata": null,
-              "lbs_location": null,
-              "ng_issue_subtype_id": "07ca9408-a587-4e3c-b2c1-d8744b74328f",
-              "ng_issue_type_id": "21b8d492-6300-4218-9969-e5a4362ce558",
-              "issue_template_id": null,
-              "custom_attributes": [],
-              "trades": null,
-              "comments_attributes": null,
-              "attachments_attributes": null
-          },
-          "relationships": {
-              "container": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/container",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/container"
-                  }
-              },
-              "attachments": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/attachments",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/attachments"
-                  }
-              },
-              "changesets": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/changesets",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/changesets"
-                  }
-              },
-              "comments": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/comments",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/comments"
-                  }
-              },
-              "activity_batches": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/activity-batches",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/activity-batches"
-                  }
-              },
-              "root_cause_obj": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/root-cause-obj",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/root-cause-obj"
-                  }
-              },
-              "issue_type_obj": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/relationships/issue-type-obj",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/84115b7f-dba2-43ab-93e1-94660ccc4590/issue-type-obj"
-                  }
-              }
-          }
-      },
-      {
-          "id": "75d2e6b9-b3ad-455d-a841-ed6b95689a52",
-          "type": "quality_issues",
-          "links": {
-              "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52"
-          },
-          "attributes": {
-              "created_at": "2019-10-10T22:22:53.418Z",
-              "synced_at": "2019-10-10T22:22:53.423Z",
-              "updated_at": "2019-10-10T22:22:53.420Z",
-              "close_version": null,
-              "closed_at": null,
-              "closed_by": null,
-              "created_by": "L5T8QNKZ77JA",
-              "opened_at": "2019-10-10T22:22:53.407Z",
-              "opened_by": "L5T8QNKZ77JA",
-              "updated_by": "L5T8QNKZ77JA",
-              "starting_version": null,
-              "title": "El concreto no se encuentra a temperatura adecuada",
-              "description": "",
-              "location_description": null,
-              "markup_metadata": null,
-              "tags": null,
-              "resource_urns": null,
-              "target_urn": null,
-              "target_urn_page": null,
-              "collection_urn": null,
-              "due_date": "2019-10-17T00:00:00.000Z",
-              "identifier": 3,
-              "status": "open",
-              "assigned_to": null,
-              "assigned_to_type": "",
-              "answer": null,
-              "answered_at": null,
-              "answered_by": null,
-              "pushpin_attributes": null,
-              "snapshot_urn": null,
-              "owner": "L5T8QNKZ77JA",
-              "issue_type_id": null,
-              "issue_type": null,
-              "issue_sub_type": null,
-              "root_cause_id": null,
-              "root_cause": null,
-              "quality_urns": null,
-              "permitted_statuses": [
-                  "work_completed",
-                  "ready_to_inspect",
-                  "not_approved",
-                  "in_dispute",
-                  "closed",
-                  "void"
-              ],
-              "permitted_attributes": [
-                  "answer",
-                  "assigned_to",
-                  "assigned_to_type",
-                  "description",
-                  "due_date",
-                  "location_description",
-                  "trades",
-                  "owner",
-                  "issue_type",
-                  "issue_type_id",
-                  "root_cause",
-                  "root_cause_id",
-                  "title",
-                  "status",
-                  "sheet_metadata",
-                  "lbs_location",
-                  "pushpin_attributes",
-                  "snapshot_urn",
-                  "close_version",
-                  "comments_attributes",
-                  "attachments_attributes",
-                  "resource_urns",
-                  "markup_metadata",
-                  "updated_at",
-                  "tags",
-                  "collection_urn",
-                  "custom_attributes",
-                  "ng_issue_subtype_id"
-              ],
-              "comment_count": 0,
-              "attachment_count": 0,
-              "permitted_actions": [
-                  "add_comment",
-                  "add_attachment"
-              ],
-              "sheet_metadata": null,
-              "lbs_location": null,
-              "ng_issue_subtype_id": "476a223b-8606-46d8-8379-de5df58b36bb",
-              "ng_issue_type_id": "dd05e293-7290-4ecd-9baa-f523cacffee7",
-              "issue_template_id": null,
-              "custom_attributes": [],
-              "trades": null,
-              "comments_attributes": null,
-              "attachments_attributes": null
-          },
-          "relationships": {
-              "container": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/container",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/container"
-                  }
-              },
-              "attachments": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/attachments",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/attachments"
-                  }
-              },
-              "changesets": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/changesets",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/changesets"
-                  }
-              },
-              "comments": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/comments",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/comments"
-                  }
-              },
-              "activity_batches": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/activity-batches",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/activity-batches"
-                  }
-              },
-              "root_cause_obj": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/root-cause-obj",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/root-cause-obj"
-                  }
-              },
-              "issue_type_obj": {
-                  "links": {
-                      "self": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/relationships/issue-type-obj",
-                      "related": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues/75d2e6b9-b3ad-455d-a841-ed6b95689a52/issue-type-obj"
-                  }
-              }
-          }
+  "11": [
+    {
+      "id": "LZ4Q1yjOMqMIFI4cN5s9CaBjdBW67fl6GrJJQ8sJE0",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2020-03-24T09:29:49.814Z",
+        "status": "open"
       }
+    },
+    {
+      "id": "i0dfOin7xOm7ZN9KmuPuNBxUEj53li71auXBpSn80K",
+      "type": "design",
+      "attributes": {
+        "title": "Description of plan E-201 is incorrect",
+        "due_date": "2019-11-13T07:44:12.830Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "sg5LOrIvt84ugGDuitnz3d3TaZcbNJDgp1HBjE0100",
+      "type": "design",
+      "attributes": {
+        "title": "Model is not according to established LOD",
+        "due_date": "2019-09-14T21:51:20.453Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "PfMoa526tNQz6128xbGfZvnfyFBP1Odb1VggD5RqUf",
+      "type": "quality",
+      "attributes": {
+        "title": "Cleaning was not perform in platform",
+        "due_date": "2019-11-25T04:14:26.279Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "Ji8huWqVkL1FEm7eZFRKB63WT2vwZGXXwvx2mw2Ghg",
+      "type": "quality",
+      "attributes": {
+        "title": "Til-up walls has many scars",
+        "due_date": "2019-11-10T22:18:04.289Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "A1BK4v6LW6tRlgb8hGfVokAPwmkfdibQIaNSzlec5I",
+      "type": "quality",
+      "attributes": {
+        "title": "Wrong color of the doors",
+        "due_date": "2020-02-11T06:48:44.212Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "biZiv1PXhBtv9lD4rrPeicr52fCOMiVNn8MRF5WNEw",
+      "type": "design",
+      "attributes": {
+        "title": "There is a change order that requires to put two more windows in the conference room.",
+        "due_date": "2020-03-21T16:18:18.377Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "Wmo76rQMSVBT0Yg69qUQoRZDqdrTrogy5vGOLzTrbm",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2019-08-05T21:46:44.736Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "gwgGXpXrD4TmJLodYLq9ytdQhbWTmHaEjK1bAPM0tD",
+      "type": "design",
+      "attributes": {
+        "title": "Model is not according to established LOD",
+        "due_date": "2020-03-19T19:54:41.524Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "Z9gdXEq3Ix8gTTAGQLZmQhxWRltyzAIO6CCJwdUclv",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2019-12-09T21:26:56.037Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "keUiMWV00TKCvxyqdOIfvQR5NbjuTUv52vo4KuhGPn",
+      "type": "design",
+      "attributes": {
+        "title": "Description of plan E-201 is incorrect",
+        "due_date": "2019-07-28T08:38:27.444Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "XYjlwf4Lygu7gKUpZmE7NEYXA3gNAosjgFd015PFTI",
+      "type": "quality",
+      "attributes": {
+        "title": "Cleaning was not perform in platform",
+        "due_date": "2019-10-27T13:04:10.563Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "lsGTfFzG4MEX0N413A4HTKLC1eLwydN5kF5t4Ps1Mw",
+      "type": "quality",
+      "attributes": {
+        "title": "Tucuruguay material was not properly spread",
+        "due_date": "2019-07-25T11:02:24.092Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "6grgtFBYkiKaZaIGfGohpsp4a23TAwSGaf2voRW1fm",
+      "type": "design",
+      "attributes": {
+        "title": "There is a change order that requires to put two more windows in the conference room.",
+        "due_date": "2020-03-08T20:14:58.352Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "MEUXNoZKxWHHoYyAplLFyC6mKUwJPbcM4OZ3a9YHbK",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2020-02-17T16:15:22.034Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "caunU98E2HsVFh1SU3VCRnsIHbKQKvIScrtXN50aiM",
+      "type": "quality",
+      "attributes": {
+        "title": "Stairs must comply with projects NOM.",
+        "due_date": "2019-12-12T08:37:36.889Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "7C0Sc492LVoZQiSWc6MLQ4Nb423WPM7z9PE8ImqnBF",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2019-11-30T10:16:37.151Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "ckGEXCjacjoOZNIYmD0C4bjf6DwFMmgH2qwbE6LV4H",
+      "type": "design",
+      "attributes": {
+        "title": "Rod number is not specified",
+        "due_date": "2019-08-09T17:53:10.025Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "Mnbmh8dTMdXOnfNAsV2b7SZANGdaKsvsf4O0Gh4EYy",
+      "type": "design",
+      "attributes": {
+        "title": "There is a change order that requires to put two more windows in the conference room.",
+        "due_date": "2020-03-08T15:17:26.731Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "8IyyrekayYbiei90EdG4xLdifkIqdlVBLdAiQX2kem",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2020-02-24T05:51:29.441Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "NQC2BwlN52BBFEo21plewjXtNlffByCZ4QC8bIpOrY",
+      "type": "design",
+      "attributes": {
+        "title": "There is no plan for Section B",
+        "due_date": "2019-10-04T21:34:15.259Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "kExmIAYlc0SAf2fMQKPpWKteVNtaPffPYexTJf3xdE",
+      "type": "design",
+      "attributes": {
+        "title": "Rod number is not specified",
+        "due_date": "2020-04-08T03:34:58.586Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "B543v5qtGFf2r3z4QtA827DCNM7yPeqYdJr3rUrSmG",
+      "type": "design",
+      "attributes": {
+        "title": "According to the plans, there are not enough downspouts.",
+        "due_date": "2019-08-06T17:51:34.937Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "sEUcbYNmt3K36GymKVeVKcuiACwztqHy0dC6j8jwhx",
+      "type": "quality",
+      "attributes": {
+        "title": "Slope was not formed according to detail",
+        "due_date": "2019-08-08T14:35:05.219Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "YdfQlj65J3WvDkYMLYO4ihwOcCsvZ76QUKSFNxRmjO",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2019-10-09T01:07:38.362Z",
+        "status": "close"
+      }
+    }
   ],
-  "meta": {
-      "page": {
-          "offset": 0,
-          "limit": 10
-      },
-      "record_count": 3
-  },
-  "links": {
-      "first": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues?page%5Blimit%5D=10&page%5Boffset%5D=0",
-      "last": "https://developer.api.autodesk.com/issues/v1/containers/e12ce5a6-7d8d-4ada-8e33-4ce15bb81e83/quality-issues?page%5Blimit%5D=10&page%5Boffset%5D=0"
-  }
+  "12": [
+    {
+      "id": "g7M5tzj2os3pBSHYVZGWZvfsP6ify3MGZHJ8tsGNXw",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2020-03-16T09:59:51.389Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "HhPoiq1RNK8wndc04y832zHFWqpyEwYWcClubXHlxU",
+      "type": "design",
+      "attributes": {
+        "title": "Model is not according to established LOD",
+        "due_date": "2020-02-09T00:40:50.573Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "pOvLTyzWb42vHN2QV9jZnvMZu1BbvHCirrPmAAdgqx",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2019-10-04T01:38:57.864Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "Wlof2u5eA1QpGSkWh3JRLKFVPIInzw0qUiGpTuIv9Z",
+      "type": "design",
+      "attributes": {
+        "title": "Missing information for Parking lot",
+        "due_date": "2019-11-20T01:14:16.649Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "ZApa8mm44c3YnWC1D39ZSsXocpoGUZ4yGC20LVgdNa",
+      "type": "quality",
+      "attributes": {
+        "title": "The percentage of construction of the stairs is insufficient according to the schedule of the project",
+        "due_date": "2019-09-29T23:42:27.416Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "7PaOwIovkSf8JHqu68vZDis86BDgOoNt7drriQJAvW",
+      "type": "design",
+      "attributes": {
+        "title": "According to the plans, there are not enough downspouts.",
+        "due_date": "2019-10-27T04:32:41.221Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "sKDA84pvMfLIlvz3gTRLHCIVhjFIaYQhxy6gFBWlK2",
+      "type": "quality",
+      "attributes": {
+        "title": "Wrong color of the doors",
+        "due_date": "2019-11-20T21:42:01.381Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "MyHfM8sG3F7YTwc3RK9qC0UNuHQcJf10LlIQ6bOkkl",
+      "type": "design",
+      "attributes": {
+        "title": "There is a change order that requires to put two more windows in the conference room.",
+        "due_date": "2019-08-11T16:03:22.281Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "LBRhazTp1J8gIiUCg8HAY2rUiBpr9m68821jSZnmpY",
+      "type": "design",
+      "attributes": {
+        "title": "There is a change order that requires to put two more windows in the conference room.",
+        "due_date": "2020-03-26T01:38:51.357Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "vx1CB39ehMZCi8wnkw3sFj3PFAG6sdsjlXvJQ2Qk5Y",
+      "type": "design",
+      "attributes": {
+        "title": "Structure plan ES-201 is missing",
+        "due_date": "2019-07-22T01:22:23.026Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "2RjPidPSA3qMBpvnA5CYGmODhDQxf12bZprTP9HE4v",
+      "type": "design",
+      "attributes": {
+        "title": "On Hold: Until structural design define the domolition required for structural main frames",
+        "due_date": "2019-11-07T15:54:04.584Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "F84r166aRTmm7IHtCYeM1cqbHiJdDHMVakdoOTVqVP",
+      "type": "security",
+      "attributes": {
+        "title": "A flat tire in Crane for til-up walls",
+        "due_date": "2020-04-01T19:56:10.722Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "CvFix21tgcUIEoSlF2eZcSrnKIDeEux57ONuozhxzL",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2019-12-12T05:18:12.224Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "WUzjkoRqWHwQzxuuz6ksW4G5SKxLp2Ou0dPXjMXIEF",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2020-02-18T20:13:11.022Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "vWwAsb9CSyBHrxT5zbcwPZyu3XoOCMIH9MrxtFHNbq",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2019-12-09T17:57:42.646Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "Q3gavKJbd8UJO9oqpyUlrqhQazk6y68ojzMAUYOfdb",
+      "type": "quality",
+      "attributes": {
+        "title": "Slope was not formed according to detail",
+        "due_date": "2020-02-18T05:20:12.639Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "ACpC1VgpwJIe0Y2GQtJWI6Cm22BUJTWVXKyWOhh3iY",
+      "type": "quality",
+      "attributes": {
+        "title": "The concrete type does not comply with the requirements of the client.",
+        "due_date": "2020-03-18T23:58:34.350Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "3AdW0Mc8K7i99zlEk1XCnTaX79UFOQ7nL8ltd20klz",
+      "type": "design",
+      "attributes": {
+        "title": "Missing details for access guarhouse",
+        "due_date": "2019-09-03T15:42:02.180Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "c0jP9NtIO62ED0KLzezot5mlovJ6UbQdw5DESa6Mvz",
+      "type": "design",
+      "attributes": {
+        "title": "Structure plan ES-201 is missing",
+        "due_date": "2019-11-06T03:50:53.785Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "SSaAHMlNOHAjA4rbtRUiiMvFS748y77GjywEje3NmL",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2020-02-13T22:46:42.680Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "Uuc1iCp3qAmH6PLB3Dy4T5C4cVE6UaxLUTMoLkN9Lt",
+      "type": "design",
+      "attributes": {
+        "title": "On hold: Untill the plumbing designer define the coonection point of domestic water",
+        "due_date": "2019-11-26T12:31:02.498Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "WAR3iM0q402l3nbfubH96pnXiS8s2ntoxTW4bflU5U",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2020-02-08T02:21:10.032Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "oeH9B7hNvlxThwSE2RbnwP6sSqRpxuKb2tYZ1GryNV",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2020-01-27T01:04:50.921Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "J8373YVMgBO1ltJBkSFfdkzx1ht90hYB7V7JqN1ZtG",
+      "type": "quality",
+      "attributes": {
+        "title": "Tucuruguay material was not properly spread",
+        "due_date": "2019-07-26T22:47:21.387Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "NvPVf0XL0QO5Z7RbUVyzzztvCWzhbiWwXU8RXTHbI3",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2020-01-05T11:23:37.716Z",
+        "status": "close"
+      }
+    }
+  ],
+  "b.496173fb-c600-4e9d-aeac-8aeb054999c2": [
+    {
+      "id": "5rgkNGQvxFm7ZwsGEJAVn5166XLpbpQZYVwrtYI8IY",
+      "type": "quality",
+      "attributes": {
+        "title": "The percentage of construction of the stairs is insufficient according to the schedule of the project",
+        "due_date": "2019-06-29T14:32:04.549Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "zpcC9gx72YPHMZBH0mWuuRt97VIfWMDaTYYip0IaEe",
+      "type": "design",
+      "attributes": {
+        "title": "The windows do not fit due to their size",
+        "due_date": "2019-07-03T12:03:48.600Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "LwuX6JmElV8sh9T3mztkQFuh2GbH5fIyonqm1WJhvt",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2020-02-19T01:31:01.199Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "BgFaFxbbZSQkCqbqKLz5iIpvq4ZXIu4sX9DGy6qxee",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2019-10-03T12:33:50.363Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "8I1leSTM2eGVSHKSte9zisnM7ZznqGWoompbkEiXSA",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2020-01-02T09:09:10.312Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "pY5Fwrd4ZFoPJeTA7YFoHlkGIx43KKoMiLeNyrgG5R",
+      "type": "security",
+      "attributes": {
+        "title": "A flat tire in Crane for til-up walls",
+        "due_date": "2020-01-22T18:30:41.985Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "JknNYR3SKgt48PYoty2TiC0xIjrC4OIrebIG0xwKTk",
+      "type": "design",
+      "attributes": {
+        "title": "Missing details for access guarhouse",
+        "due_date": "2019-07-23T07:24:26.626Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "ZeKNgCbbmOjQ9ZCBMGC7ReJzA4Bz7Z9vWE5ZiQnnqt",
+      "type": "quality",
+      "attributes": {
+        "title": "Concrete was not a right temperature",
+        "due_date": "2019-08-14T11:51:27.126Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "tapPjBUJ9sbzXqEOBQmOGHyzJGuulDwMH7VYpGDYCW",
+      "type": "design",
+      "attributes": {
+        "title": "Missing information for Parking lot",
+        "due_date": "2019-08-05T18:19:50.394Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "4IzOEzYRrmlkBtV8bkMSbMREltsfWb8uFBBPTX68n7",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2019-12-21T09:11:09.254Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "JuFDlJ9QrV2M0sQxAPAnyx4yTpH5zotOBeuuYcdadZ",
+      "type": "quality",
+      "attributes": {
+        "title": "The percentage of construction of the stairs is insufficient according to the schedule of the project",
+        "due_date": "2020-03-08T20:02:37.663Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "86BNRvwbcE61jOcUBsCoLjOR5Loe1QkSOgei0lLoXL",
+      "type": "quality",
+      "attributes": {
+        "title": "Concrete was not a right temperature",
+        "due_date": "2020-03-02T11:15:26.239Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "Hbu6QEZwrBNBkZWARwSXSBZ9DzTjJC3H6Rxavvv5Ty",
+      "type": "security",
+      "attributes": {
+        "title": "A flat tire in Crane for til-up walls",
+        "due_date": "2019-10-31T07:29:25.629Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "8g1PfOfiU21AOX9qNrj8NEgcSr9Nfmpx5HY8pvblws",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2020-03-07T21:38:10.305Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "lB6v2zlXqocISvC2cZEPdoDbgt276CbpdVPa4UqiwQ",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2019-10-12T21:55:56.598Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "FB19xN73i5RuIT815sidfQqUPgHD6pA2yqtESi79NH",
+      "type": "design",
+      "attributes": {
+        "title": "According to the plans, there are not enough downspouts.",
+        "due_date": "2020-01-15T15:13:47.432Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "VxGt2gxwYh1LzrJetqZAUaytb5D1nfDBWSLj1NZo49",
+      "type": "design",
+      "attributes": {
+        "title": "On hold: Untill the plumbing designer define the coonection point of domestic water",
+        "due_date": "2019-07-01T05:13:16.085Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "ITeskmEUudsvPi1EUoFLhxEd41foNaDD0Vy2Dfu4qo",
+      "type": "design",
+      "attributes": {
+        "title": "Description of plan E-201 is incorrect",
+        "due_date": "2019-06-24T20:07:57.875Z",
+        "status": "close"
+      }
+    }
+  ],
+  "b.f32621e9-e29e-45d4-b74b-96aff830e91b": [
+    {
+      "id": "ElNFsEE9nAlhLeocdhOSMWJMEjToKIdI428uvaxW2S",
+      "type": "quality",
+      "attributes": {
+        "title": "Stairs must comply with projects NOM.",
+        "due_date": "2019-07-14T14:01:45.508Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "7GU0q9k7eksuQUNOu5n7jTulbrxBjSxBtPcdsL2spj",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2019-11-05T00:19:18.502Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "ljWTUrBeNqrpaUK1ALEOtsutQzs45FB56Lx2VFMOUT",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2019-06-25T17:43:19.751Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "7yX90cXncC6OBhoKcbDCWashLkQMSZZsBh2EPqA3OQ",
+      "type": "design",
+      "attributes": {
+        "title": "Structure plan ES-201 is missing",
+        "due_date": "2019-11-06T22:23:37.808Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "fq7xjgZATDm8V8Z2P2xD768eHL8z1mAeiSIfX7uRSl",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2019-10-22T18:55:09.536Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "LzOiViTxn0iBKrM9nJL0Xv2JTz7dmIsyqzRQOFUqz9",
+      "type": "security",
+      "attributes": {
+        "title": "A flat tire in Crane for til-up walls",
+        "due_date": "2019-12-10T17:42:46.658Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "7KXMy97Hsk0F2ljH4O34egiYLAF4u8TtBa8srDwxBK",
+      "type": "quality",
+      "attributes": {
+        "title": "Wrong color of the doors",
+        "due_date": "2019-11-19T23:06:44.315Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "aFtPHHlxIhR0A3qi91qQV7oOTksq55s06qwtY6NAZJ",
+      "type": "design",
+      "attributes": {
+        "title": "On hold: Untill the plumbing designer define the coonection point of domestic water",
+        "due_date": "2019-09-29T16:20:03.935Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "rpgqLLXDpbCB7qgSnM0w1j6QPhMrw0Dgbh9vvt3orE",
+      "type": "security",
+      "attributes": {
+        "title": "A flat tire in Crane for til-up walls",
+        "due_date": "2019-08-28T08:34:28.786Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "JN7PrNluXatbOfbBw8pqosHJf6MsMtLg5JKRQJKvdF",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2019-06-22T07:12:16.008Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "b17LePoaBV23iR90Y6PKrwAJ6ZbPSckV50RVhEelko",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2019-10-16T07:10:34.764Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "1fnakkjHLnyzx9fbXpEgCoWr6De6M0VAUEm1utOa9i",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2019-08-20T01:07:14.075Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "eFjSmaf1YrK5H3pQHgjPvS2VRUcluL77wHriMyoODt",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2019-12-12T01:20:11.453Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "draOpzczsfuMAPQDD99ECmzink22S55ZJJDztB3G59",
+      "type": "design",
+      "attributes": {
+        "title": "Rod number is not specified",
+        "due_date": "2019-06-28T21:15:21.140Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "EtrvZNn2Aze9WSc00GPlwPq7MBoAejLpwgu7EUoZwy",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2019-11-08T11:01:49.346Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "oxBhSLRY3GwnjJvgzqyONxive39ByW4sCAj43Zznz6",
+      "type": "design",
+      "attributes": {
+        "title": "There is no plan for Section B",
+        "due_date": "2019-09-02T17:16:33.541Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "SH2XaKJE3BP0nkCPttC9CzHr8MlYnpblzFo9oZGm7P",
+      "type": "security",
+      "attributes": {
+        "title": "A flat tire in Crane for til-up walls",
+        "due_date": "2019-12-04T10:18:37.338Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "6xqVnX4dFoO6KRTeKisL81TslSycMjAMY7pYTaYk8A",
+      "type": "quality",
+      "attributes": {
+        "title": "The percentage of construction of the stairs is insufficient according to the schedule of the project",
+        "due_date": "2019-08-24T08:35:52.687Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "HS2FcYvXtsRmRZtkJ6B5JgKmQKbUl4T5D5i3J5NmY7",
+      "type": "quality",
+      "attributes": {
+        "title": "Concrete was not a right temperature",
+        "due_date": "2019-12-17T20:37:26.646Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "FPCfDPtG6ZeHYBboxNBdcTurszEJ1H3eyyfOoPZoed",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2019-07-29T18:53:38.230Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "ixfD3Rq0Q585F4FHvVWZENJgsGScL2I9pb3KooKEFr",
+      "type": "design",
+      "attributes": {
+        "title": "Missing information for Parking lot",
+        "due_date": "2019-08-23T13:40:56.063Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "GWfnrMCwKtm6GjrVg4O5aFkxafaWTLuNUpgeSdU7mJ",
+      "type": "design",
+      "attributes": {
+        "title": "Rod number is not specified",
+        "due_date": "2019-11-17T15:42:07.772Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "FpAeVavUE2n9BQotmVX2EasRXiWdC1bjYHVImkxb0g",
+      "type": "design",
+      "attributes": {
+        "title": "Structure plan ES-201 is missing",
+        "due_date": "2019-11-01T09:43:02.099Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "5KEqopXiuaQVmnoRMPiMFfygwrdgSmxA9EZY9RkdN6",
+      "type": "design",
+      "attributes": {
+        "title": "Sidewalk goes beyond plan scope",
+        "due_date": "2019-12-17T04:51:52.705Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "BWiR4r891NKmJMxKd28gcGcGUsMNKO5G702Dv1Irc9",
+      "type": "quality",
+      "attributes": {
+        "title": "Wrong color of the doors",
+        "due_date": "2019-11-13T13:01:49.825Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "QIfPJ4hSEdfhoA5WNzzvIjuZuD6GHJwn1MbEw6WvYo",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2019-10-21T09:52:54.766Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "W2Xu0XnNRL6adNlOINpnMHdpdgrmfSBlyaJA4OM6W1",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2019-08-14T00:02:28.767Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "cq2jjK022VFHdGFr0uJcKNIi3xQ80YxGEEbfYR5ft7",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2019-07-19T08:18:26.999Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "pSljU4AZIyKOT7F8QivxG4NJfV35FG6oczqYsF4FOk",
+      "type": "quality",
+      "attributes": {
+        "title": "Wrong color of the doors",
+        "due_date": "2019-08-31T16:22:16.457Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "jAGh8pY4xpkiO20yzNzyKqkZOFUeg7o3664VAmBEBe",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2019-10-30T22:12:01.672Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "F9muak6njfGgXuJi866vR1DEbeJiyhxzGk6biFLr0i",
+      "type": "quality",
+      "attributes": {
+        "title": "Wrong color of the doors",
+        "due_date": "2019-11-12T12:28:52.929Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "Ts4zABUUiqf0MRZyIJryb99P1slEdwo6JTIgjsNJhB",
+      "type": "design",
+      "attributes": {
+        "title": "Model is not according to established LOD",
+        "due_date": "2019-07-05T09:24:34.647Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "hBCSe55GKl6KOVrPve7iTitCN6fG5b2NS2KuTBGoyx",
+      "type": "quality",
+      "attributes": {
+        "title": "Stairs must comply with projects NOM.",
+        "due_date": "2019-09-24T04:14:44.462Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "DAGUnPZbTmy8THMtlARhghD4KodAqC1zq2O6j7dgCn",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2019-12-09T13:29:21.704Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "hJZrPkR12Tqxsir8ohtCeuf0UmTPGHO1T3Ejx6o1jO",
+      "type": "quality",
+      "attributes": {
+        "title": "Stairs must comply with projects NOM.",
+        "due_date": "2019-07-07T08:57:30.301Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "pOtmn68tnosTV2B1Y918Zm7Uzd4NDw1EuSiemBYvg6",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2019-06-28T12:24:04.922Z",
+        "status": "close"
+      }
+    }
+  ],
+  "b.89a69405-af59-48b9-8864-2c6f1c1b206a": [
+    {
+      "id": "Zm0diW2j7p0u755V5yxDtYLtDPzSh5gJwpfFi9L8m0",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2019-03-11T05:25:57.950Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "E0BjAuVh3oYj1xnEkdlSRFO5LumlXS3OAKIpOt0Lbc",
+      "type": "quality",
+      "attributes": {
+        "title": "Wrong color of the doors",
+        "due_date": "2019-04-22T23:13:50.794Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "FFw5srkBA1hrjfl8ivBBIJAXA6wJFpfgXmGaK9y4sd",
+      "type": "quality",
+      "attributes": {
+        "title": "Til-up walls has many scars",
+        "due_date": "2019-11-07T14:35:22.390Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "nYIfQf09oagozaSjQzjUvrEXx9cRauHgNhdOGNd1uy",
+      "type": "design",
+      "attributes": {
+        "title": "Missing information for Parking lot",
+        "due_date": "2019-09-13T16:00:48.876Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "dnf1H1jLNjPZDv1vc5beuNzwBbCalWXWuMvMZSRFXb",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2019-03-15T08:31:05.343Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "zszir72c3CkiurpNgpofSbFuhMxX85DHFYwtON8jkn",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2019-08-21T01:41:46.373Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "OhmclQemZBt2UmHwLwMTOhQ9je1ko9cOdleymU4XFT",
+      "type": "quality",
+      "attributes": {
+        "title": "Concrete was not a right temperature",
+        "due_date": "2019-01-19T13:19:26.444Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "XZEpSAbDwZLqAabVHdz3Ho4sPlITpHZLV8Dzn7X5sp",
+      "type": "quality",
+      "attributes": {
+        "title": "Tucuruguay material was not properly spread",
+        "due_date": "2019-03-13T19:05:58.212Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "WfGiS4jl4UGdhZhbRVdeTsDHsNczskVKuSYW4l9TRM",
+      "type": "quality",
+      "attributes": {
+        "title": "Slope was not formed according to detail",
+        "due_date": "2019-11-02T00:51:33.172Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "X4E1sbbldRXp5oq0YrjNVUZ1RD5jF7htshpTfkUUET",
+      "type": "quality",
+      "attributes": {
+        "title": "Til-up walls has many scars",
+        "due_date": "2019-04-05T16:06:26.979Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "51ec641ASrHuZWOtCuZuxqkEPWNSDqwcaTuK9plYrC",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2018-11-27T10:48:36.938Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "wmCci0XIaITU3W0eAcVb0mhT47rfQ3QEwGZ98WUQkZ",
+      "type": "quality",
+      "attributes": {
+        "title": "Slope was not formed according to detail",
+        "due_date": "2019-08-20T16:25:44.080Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "IeJMQoqv5o53gHNw41ygxBEykpPQiNNmnMWZiqRQAi",
+      "type": "design",
+      "attributes": {
+        "title": "Structure plan ES-201 is missing",
+        "due_date": "2019-09-26T19:21:22.965Z",
+        "status": "open"
+      }
+    }
+  ],
+  "b.6eec3ddb-4f30-44e2-a969-3652fda82609": [
+    {
+      "id": "hE6JiDEgKLKN5jdaO3eY15K1LDaO9UvXCI3pkNTPRo",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2019-08-29T22:40:39.846Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "Uqx5iaL5gD7AAJwztbKR86din0I6dVrgyiwUf97hn4",
+      "type": "design",
+      "attributes": {
+        "title": "Missing details for access guarhouse",
+        "due_date": "2019-12-30T09:10:37.588Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "JFHV4mNdxFNbyZSabue9SKLDQfQn0QgiJU47IYw75g",
+      "type": "design",
+      "attributes": {
+        "title": "According to the plans, there are not enough downspouts.",
+        "due_date": "2019-10-05T08:25:50.949Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "wTQnP2cTOoGR5xt0l9WMRZOaVdLgirP3scJ35JdFT0",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2019-08-11T22:30:08.112Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "4DO5CDQ5udP6o8WIhgJ1zLbXoya7hjYAVTkDgROmyU",
+      "type": "quality",
+      "attributes": {
+        "title": "The percentage of construction of the stairs is insufficient according to the schedule of the project",
+        "due_date": "2020-02-22T01:50:18.995Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "eWKWojkyCL4e0FcEI1bL3q21DVWwefixz31tPIyjaG",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2019-11-22T02:42:24.812Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "d8Aeghw2XExpoBH91NXD5ja2qNBObDDHPDoVn0sw7R",
+      "type": "design",
+      "attributes": {
+        "title": "According to the plans, there are not enough downspouts.",
+        "due_date": "2019-07-23T12:28:23.413Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "AnMk3MS7aHmldsHrinAIcTA6Nq8kZsI94ltrkdPTsC",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2020-04-06T11:04:19.117Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "hG9GLWbhCfy8vQZLgy4Ggndk0SmfdMMAxbQfR1IZ7M",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2020-02-17T22:25:45.266Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "rv047LnupokHJbS6mrFrRrglEskNG6hHSh72i9UyI5",
+      "type": "quality",
+      "attributes": {
+        "title": "Concrete was not a right temperature",
+        "due_date": "2020-03-02T02:41:56.875Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "KFDMSReCTSYCvQhXZj7YwHWSK1szjhXn0RhgPlKicG",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2019-11-27T05:12:11.323Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "tTntA8Ku1kZkjohyvZf4Wkj0OOT7EnByDo8qDEsLHC",
+      "type": "quality",
+      "attributes": {
+        "title": "Cleaning was not perform in platform",
+        "due_date": "2020-03-13T06:35:31.120Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "w5DUzq1UDR06A7Py9aSZmBroO109roJ7QFfMG6gisd",
+      "type": "quality",
+      "attributes": {
+        "title": "Tucuruguay material was not properly spread",
+        "due_date": "2019-09-03T23:52:12.583Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "G2Bs9qNjzADwXkXcphUkEBjpR4kNW89hwizCv7ytGG",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2019-08-20T16:57:16.312Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "H0mSsCVhnlM2kdoxYvCoCeFx72qy7SY5MfRnflF4YL",
+      "type": "quality",
+      "attributes": {
+        "title": "The concrete type does not comply with the requirements of the client.",
+        "due_date": "2019-11-27T19:41:43.953Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "mGoYkZe7RZCKv4PVZCEW9JIzx1CmcI6uA4REuYarFy",
+      "type": "quality",
+      "attributes": {
+        "title": "Cleaning was not perform in platform",
+        "due_date": "2019-12-27T15:42:46.830Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "NXsRdt68z5PwLv5AhorcJZpDzuWkG36tJIa3lykZcS",
+      "type": "design",
+      "attributes": {
+        "title": "According to the plans, there are not enough downspouts.",
+        "due_date": "2020-03-12T15:15:58.528Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "Gl3D0167tqP5vaRVJVCku42IN0Dr2HxcM8EeuTjapT",
+      "type": "security",
+      "attributes": {
+        "title": "A flat tire in Crane for til-up walls",
+        "due_date": "2019-12-23T17:24:16.471Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "rNZEejgFDgmnkjwZbLyRXbUwf3JbrQerrNfLg8byhs",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2019-10-16T15:41:13.320Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "d0cgD7CyNZBjBXoLwUiLbUgOS8Hl0SpcOlh56qNqbU",
+      "type": "design",
+      "attributes": {
+        "title": "There are two toilettes missing in each bathroom according to the specifications.",
+        "due_date": "2020-03-05T21:54:23.446Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "oObZSbf7fsvbNtE7Y6sdxX2neRCKRCWH5ylKcClR33",
+      "type": "quality",
+      "attributes": {
+        "title": "Wrong color of the doors",
+        "due_date": "2019-12-10T16:55:58.812Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "2CFWu2MIBf9Mq8tkepcXzjerYidTO3abvQ65xAVEAE",
+      "type": "security",
+      "attributes": {
+        "title": "There is to protocol for pouring concrete",
+        "due_date": "2020-02-03T05:04:49.023Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "GzXkIyppKJ6uEtkz3ON2jOIlIVJgbnEthAuJFLB3MQ",
+      "type": "design",
+      "attributes": {
+        "title": "On hold: Untill the plumbing designer define the coonection point of domestic water",
+        "due_date": "2020-03-21T00:11:21.698Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "yDZATEaIzloTzol1oY4XdJFjtpVoyFhPB6crSUeGnY",
+      "type": "design",
+      "attributes": {
+        "title": "There is no plan for Section B",
+        "due_date": "2019-09-03T04:27:15.799Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "ne74EXjdijPmLGzlpKndDW6c8zWSH3T7oKrj7OqsOc",
+      "type": "design",
+      "attributes": {
+        "title": "Structure plan ES-201 is missing",
+        "due_date": "2019-11-08T01:37:36.463Z",
+        "status": "close"
+      }
+    }
+  ]
 }

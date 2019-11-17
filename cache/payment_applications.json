@@ -1,0 +1,22 @@
+{
+   "b.496173fb-c600-4e9d-aeac-8aeb054999c2": {
+      "contract_amount": 8549859.41,
+      "bill_done": 6212394.25,
+      "spent": 5895125.25
+   },
+   "b.f32621e9-e29e-45d4-b74b-96aff830e91b": {
+      "contract_amount": 46976996.46,
+      "bill_done": 8455859.3628,
+      "spent": 12859658
+   },
+   "b.89a69405-af59-48b9-8864-2c6f1c1b206a": {
+      "contract_amount": 205140913.87,
+      "bill_done": 75861109.94,
+      "spent": 82799789.55
+   },
+   "b.6eec3ddb-4f30-44e2-a969-3652fda82609": {
+      "contract_amount": 55603909.62,
+      "bill_done": 21440867.54,
+      "spent": 22256895.89
+   }
+}

@@ -41,6 +41,23 @@ const getProjects = () => {
   return projects;
 }
 
+const getIssues = (container_id, credentials) => {
+  const account_id = hub_id.substring(2);
+  const project = project_id.substring(2);
+  const url = `${base_url}/issues/v1/containers/${container_id}/quality-issues`;
+  return fetch(
+    url, 
+    { 
+      method: 'GET', 
+      headers: {
+        'Authorization': `Bearer ${credentials.access_token}`
+      }
+    }
+  )
+}
+
+
+
 
 module.exports = {
   getProject,

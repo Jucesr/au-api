@@ -16241,6 +16241,152 @@
             },
             "children": [
               {
+                "type": "folders",
+                "id": "urn:adsk.wipprod:fs.folder:co.rsR20QDjQQS4xjfzS5zOVg",
+                "attributes": {
+                  "name": "01_Programa",
+                  "displayName": "01_Programa",
+                  "createTime": "2019-11-06T18:56:20.0000000Z",
+                  "createUserId": "5X5JK99G9V4G",
+                  "createUserName": "Diana Gasca",
+                  "lastModifiedTime": "2019-11-11T18:44:02.0000000Z",
+                  "lastModifiedUserId": "5X5JK99G9V4G",
+                  "lastModifiedUserName": "Diana Gasca",
+                  "lastModifiedTimeRollup": "2019-11-13T17:15:46.0000000Z",
+                  "objectCount": 4,
+                  "hidden": false,
+                  "extension": {
+                    "type": "folders:autodesk.bim360:Folder",
+                    "version": "1.0",
+                    "schema": {
+                      "href": "https://developer.api.autodesk.com/schema/v1/versions/folders:autodesk.bim360:Folder-1.0"
+                    },
+                    "data": {
+                      "visibleTypes": [
+                        "items:autodesk.bim360:File"
+                      ],
+                      "actions": [
+                        "CONVERT"
+                      ],
+                      "allowedTypes": [
+                        "items:autodesk.bim360:File",
+                        "folders:autodesk.bim360:Folder"
+                      ]
+                    }
+                  }
+                },
+                "relationships": {
+                  "contents": {
+                    "links": {
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/folders/urn:adsk.wipprod:fs.folder:co.rsR20QDjQQS4xjfzS5zOVg/contents"
+                      }
+                    }
+                  },
+                  "parent": {
+                    "data": {
+                      "type": "folders",
+                      "id": "urn:adsk.wipprod:fs.folder:co.fHrfR3u4QdqWIXjlnMiTOw"
+                    },
+                    "links": {
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/folders/urn:adsk.wipprod:fs.folder:co.rsR20QDjQQS4xjfzS5zOVg/parent"
+                      }
+                    }
+                  },
+                  "refs": {
+                    "links": {
+                      "self": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/folders/urn:adsk.wipprod:fs.folder:co.rsR20QDjQQS4xjfzS5zOVg/relationships/refs"
+                      },
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/folders/urn:adsk.wipprod:fs.folder:co.rsR20QDjQQS4xjfzS5zOVg/refs"
+                      }
+                    }
+                  },
+                  "links": {
+                    "links": {
+                      "self": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/folders/urn:adsk.wipprod:fs.folder:co.rsR20QDjQQS4xjfzS5zOVg/relationships/links"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "type": "items",
+                "id": "urn:adsk.wipprod:dm.lineage:vlMsDlw3QQyOCV0-cj1Xtw",
+                "attributes": {
+                  "displayName": "FI-2 MASTER PLAN.mpp",
+                  "createTime": "2019-10-24T16:38:16.0000000Z",
+                  "createUserId": "SX9AL92XX7DS",
+                  "createUserName": "Camila Saavedra",
+                  "lastModifiedTime": "2019-10-24T16:38:17.0000000Z",
+                  "lastModifiedUserId": "SX9AL92XX7DS",
+                  "lastModifiedUserName": "Camila Saavedra",
+                  "hidden": false,
+                  "reserved": false,
+                  "extension": {
+                    "type": "items:autodesk.bim360:File",
+                    "version": "1.0",
+                    "schema": {
+                      "href": "https://developer.api.autodesk.com/schema/v1/versions/items:autodesk.bim360:File-1.0"
+                    },
+                    "data": {
+                      "sourceFileName": "FI-2 MASTER PLAN.mpp"
+                    }
+                  }
+                },
+                "relationships": {
+                  "tip": {
+                    "data": {
+                      "type": "versions",
+                      "id": "urn:adsk.wipprod:fs.file:vf.vlMsDlw3QQyOCV0-cj1Xtw?version=1"
+                    },
+                    "links": {
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:vlMsDlw3QQyOCV0-cj1Xtw/tip"
+                      }
+                    }
+                  },
+                  "versions": {
+                    "links": {
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:vlMsDlw3QQyOCV0-cj1Xtw/versions"
+                      }
+                    }
+                  },
+                  "parent": {
+                    "data": {
+                      "type": "folders",
+                      "id": "urn:adsk.wipprod:fs.folder:co.fHrfR3u4QdqWIXjlnMiTOw"
+                    },
+                    "links": {
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:vlMsDlw3QQyOCV0-cj1Xtw/parent"
+                      }
+                    }
+                  },
+                  "refs": {
+                    "links": {
+                      "self": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:vlMsDlw3QQyOCV0-cj1Xtw/relationships/refs"
+                      },
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:vlMsDlw3QQyOCV0-cj1Xtw/refs"
+                      }
+                    }
+                  },
+                  "links": {
+                    "links": {
+                      "self": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:vlMsDlw3QQyOCV0-cj1Xtw/relationships/links"
+                      }
+                    }
+                  }
+                }
+              },
+              {
                 "type": "items",
                 "id": "urn:adsk.wipprod:dm.lineage:e0IgOB5CRhWbRwlasq6_BQ",
                 "attributes": {
@@ -16261,6 +16407,54 @@
                     },
                     "data": {
                       "sourceFileName": "FI-2 MASTER PLAN.xml"
+                    }
+                  }
+                },
+                "relationships": {
+                  "tip": {
+                    "data": {
+                      "type": "versions",
+                      "id": "urn:adsk.wipprod:fs.file:vf.e0IgOB5CRhWbRwlasq6_BQ?version=1"
+                    },
+                    "links": {
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:e0IgOB5CRhWbRwlasq6_BQ/tip"
+                      }
+                    }
+                  },
+                  "versions": {
+                    "links": {
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:e0IgOB5CRhWbRwlasq6_BQ/versions"
+                      }
+                    }
+                  },
+                  "parent": {
+                    "data": {
+                      "type": "folders",
+                      "id": "urn:adsk.wipprod:fs.folder:co.fHrfR3u4QdqWIXjlnMiTOw"
+                    },
+                    "links": {
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:e0IgOB5CRhWbRwlasq6_BQ/parent"
+                      }
+                    }
+                  },
+                  "refs": {
+                    "links": {
+                      "self": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:e0IgOB5CRhWbRwlasq6_BQ/relationships/refs"
+                      },
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:e0IgOB5CRhWbRwlasq6_BQ/refs"
+                      }
+                    }
+                  },
+                  "links": {
+                    "links": {
+                      "self": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:e0IgOB5CRhWbRwlasq6_BQ/relationships/links"
+                      }
                     }
                   }
                 }
@@ -16286,6 +16480,54 @@
                     },
                     "data": {
                       "sourceFileName": "FI-2 TORRE DE ENFRIAMIENTO.xml"
+                    }
+                  }
+                },
+                "relationships": {
+                  "tip": {
+                    "data": {
+                      "type": "versions",
+                      "id": "urn:adsk.wipprod:fs.file:vf.ubkorSDbS8iFmqrP8wpdKA?version=1"
+                    },
+                    "links": {
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:ubkorSDbS8iFmqrP8wpdKA/tip"
+                      }
+                    }
+                  },
+                  "versions": {
+                    "links": {
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:ubkorSDbS8iFmqrP8wpdKA/versions"
+                      }
+                    }
+                  },
+                  "parent": {
+                    "data": {
+                      "type": "folders",
+                      "id": "urn:adsk.wipprod:fs.folder:co.fHrfR3u4QdqWIXjlnMiTOw"
+                    },
+                    "links": {
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:ubkorSDbS8iFmqrP8wpdKA/parent"
+                      }
+                    }
+                  },
+                  "refs": {
+                    "links": {
+                      "self": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:ubkorSDbS8iFmqrP8wpdKA/relationships/refs"
+                      },
+                      "related": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:ubkorSDbS8iFmqrP8wpdKA/refs"
+                      }
+                    }
+                  },
+                  "links": {
+                    "links": {
+                      "self": {
+                        "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:ubkorSDbS8iFmqrP8wpdKA/relationships/links"
+                      }
                     }
                   }
                 }
@@ -16493,6 +16735,127 @@
                         },
                         "data": {
                           "sourceFileName": "Copy of Programa de compras  CAT FI 2.xlsx"
+                        }
+                      }
+                    },
+                    "relationships": {
+                      "tip": {
+                        "data": {
+                          "type": "versions",
+                          "id": "urn:adsk.wipprod:fs.file:vf.lD6qdJaeQ--diwO5DgzpIA?version=1"
+                        },
+                        "links": {
+                          "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:lD6qdJaeQ--diwO5DgzpIA/tip"
+                          }
+                        }
+                      },
+                      "versions": {
+                        "links": {
+                          "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:lD6qdJaeQ--diwO5DgzpIA/versions"
+                          }
+                        }
+                      },
+                      "parent": {
+                        "data": {
+                          "type": "folders",
+                          "id": "urn:adsk.wipprod:fs.folder:co.QASaXUIaTEuikiv67jh7Xw"
+                        },
+                        "links": {
+                          "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:lD6qdJaeQ--diwO5DgzpIA/parent"
+                          }
+                        }
+                      },
+                      "refs": {
+                        "links": {
+                          "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:lD6qdJaeQ--diwO5DgzpIA/relationships/refs"
+                          },
+                          "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:lD6qdJaeQ--diwO5DgzpIA/refs"
+                          }
+                        }
+                      },
+                      "links": {
+                        "links": {
+                          "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:lD6qdJaeQ--diwO5DgzpIA/relationships/links"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "type": "items",
+                    "id": "urn:adsk.wipprod:dm.lineage:m7XyiiQFRHm5_UIHZPD7kg",
+                    "attributes": {
+                      "displayName": "programa de compras catf2.xml",
+                      "createTime": "2019-10-10T16:19:46.0000000Z",
+                      "createUserId": "SX9AL92XX7DS",
+                      "createUserName": "Camila Saavedra",
+                      "lastModifiedTime": "2019-10-10T16:19:48.0000000Z",
+                      "lastModifiedUserId": "SX9AL92XX7DS",
+                      "lastModifiedUserName": "Camila Saavedra",
+                      "hidden": false,
+                      "reserved": false,
+                      "extension": {
+                        "type": "items:autodesk.bim360:File",
+                        "version": "1.0",
+                        "schema": {
+                          "href": "https://developer.api.autodesk.com/schema/v1/versions/items:autodesk.bim360:File-1.0"
+                        },
+                        "data": {
+                          "sourceFileName": "programa de compras catf2.xml"
+                        }
+                      }
+                    },
+                    "relationships": {
+                      "tip": {
+                        "data": {
+                          "type": "versions",
+                          "id": "urn:adsk.wipprod:fs.file:vf.m7XyiiQFRHm5_UIHZPD7kg?version=1"
+                        },
+                        "links": {
+                          "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:m7XyiiQFRHm5_UIHZPD7kg/tip"
+                          }
+                        }
+                      },
+                      "versions": {
+                        "links": {
+                          "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:m7XyiiQFRHm5_UIHZPD7kg/versions"
+                          }
+                        }
+                      },
+                      "parent": {
+                        "data": {
+                          "type": "folders",
+                          "id": "urn:adsk.wipprod:fs.folder:co.QASaXUIaTEuikiv67jh7Xw"
+                        },
+                        "links": {
+                          "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:m7XyiiQFRHm5_UIHZPD7kg/parent"
+                          }
+                        }
+                      },
+                      "refs": {
+                        "links": {
+                          "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:m7XyiiQFRHm5_UIHZPD7kg/relationships/refs"
+                          },
+                          "related": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:m7XyiiQFRHm5_UIHZPD7kg/refs"
+                          }
+                        }
+                      },
+                      "links": {
+                        "links": {
+                          "self": {
+                            "href": "https://developer.api.autodesk.com/data/v1/projects/b.f32621e9-e29e-45d4-b74b-96aff830e91b/items/urn:adsk.wipprod:dm.lineage:m7XyiiQFRHm5_UIHZPD7kg/relationships/links"
+                          }
                         }
                       }
                     }

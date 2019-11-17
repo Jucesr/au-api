@@ -82,7 +82,7 @@ router.get('/project/:id/folderContent', async (req, res) => {
   const {folderPath, force = false} = query;
   const project_id = params.id;
 
-  const fields = ['type', 'id', 'attributes']
+  const fields = ['type', 'id', 'attributes', 'relationships']
 
   const credentials = await oAuth2TwoLegged.authenticate()
 
@@ -158,6 +158,19 @@ router.get('/project/:id/issues', async (req, res) => {
 
   res.send(issues)
   console.log(`${issues.length} Issues were sent. Project Id = ${project_id}`)
+
+});
+
+router.get('/project/:id/payment_applications', async (req, res) => {
+  const {query, params} = req;
+  const project_id = params.id;
+  
+  let paymentApps = Cache.getPaymentApps(project_id);
+
+  paymentApps = paymentApps ? paymentApps : {};
+
+  res.send(paymentApps)
+  console.log(`Payment Applications were sent. Project Id = ${project_id}`)
 
 });
 

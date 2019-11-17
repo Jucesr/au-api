@@ -1,33 +1,6 @@
-const errors = require('../config/errors');
 const _ = require('lodash');
 const fs = require('fs');
 
-const parseSequelizeError = (error) => {
-    
-    let parsedErrorMessage;
-    switch (error.name) {
-        case "SequelizeDatabaseError":
-            parsedErrorMessage = errors.INTERNAL_ERROR;
-        break;
-
-        case "SequelizeValidationError":
-            parsedErrorMessage = `${error.errors[0].value} ${error.errors[0].message}`;
-        break;
-
-        case "SequelizeUniqueConstraintError":
-            parsedErrorMessage = errors.FIELD_DUPLICATED.replace('@VALUE', error.errors[0].value);
-        break;
-
-        case "SequelizeForeignKeyConstraintError":
-            parsedErrorMessage = errors.FOREING_KEY_MISSING;
-        break;
-    
-        default:
-            parsedErrorMessage = errors.INTERNAL_ERROR;
-            break;
-    }
-    return parsedErrorMessage
-};
 
 const validateRequiredFields = (obj, fieldsToInclude) => {
     let new_entity = {};
@@ -117,12 +90,39 @@ const writeJsonFile = (targetPath, jsonContent) => {
     fs.writeFileSync(targetPath, JSON.stringify(jsonContent, null, 2))
 }
 
+const generateRandomString = (length, stringsTaken) => {
+
+    const generateString = (length) => {
+        var result           = '';
+        var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+        var charactersLength = characters.length;
+        for ( var i = 0; i < length; i++ ) {
+        result += characters.charAt(Math.floor(Math.random() * charactersLength));
+        }
+        return result;
+    }
+    if(stringsTaken == undefined || stringsTaken.length == 0){
+        return generateString(length);
+    }
+    let current_string;
+    let is_valid = false;
+    do {
+        current_string = generateString(length);
+        
+        is_valid = stringsTaken.reduce((acum, item) => {
+            return (acum && !(current_string == item))
+        }, true)
+    } while (!is_valid);
+
+    return current_string;
+ }
+
 module.exports = {
-    parseSequelizeError,
     validateRequiredFields,
     transformArrayToOneDimension,
     printRoutes,
     replaceAll,
     camelize,
-    writeJsonFile
+    writeJsonFile,
+    generateRandomString
 };

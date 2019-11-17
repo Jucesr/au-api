@@ -101,6 +101,19 @@ const getIssues = (project_id) => {
   return issues[project_id];
 }
 
+const saveIssues = (project_id, issues) => {
+  const filepath = path.join(__dirname, 'issues.json');
+
+  let data = JSON.parse(fs.readFileSync(filepath))
+  data[project_id] = issues
+  fs.writeFileSync(filepath, JSON.stringify(data, null, 2))
+}
+
+const getPaymentApps = (project_id) => {
+  const paymentApps = JSON.parse(readFile('payment_applications.json'))
+  return paymentApps[project_id];
+}
+
 const getModels = (project_id) => {
   const models = JSON.parse(readFile('models.json'))
   const items = models[project_id];
@@ -127,5 +140,8 @@ module.exports = {
   getProjectFoldersPath,
   getBusinessUnits,
   getIssues,
-  getModels
+  getModels,
+  getPaymentApps,
+  readFile,
+  saveIssues
 }

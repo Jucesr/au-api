@@ -1,3 +1,15 @@
+## V0.0.3
+Date: Nov 17, 2019
+  * [NEW]
+    * Final comit before presentation
+
+## V0.0.2
+Date: Oct 22, 2019
+  * [NEW] 
+    * Route to provide procument schedule.
+    * Construction schedule include a new property ModelLink
+    * Route to provide 3D models
+
 ## V0.0.1
 Date: Oct 10, 2019
   * [NEW] 
@@ -13,10 +25,3 @@ Date: Oct 10, 2019
       * Get Folder content
       * Store in cache items
 
-## V0.0.2
-Date: Oct 22, 2019
-  * [NEW] 
-    * Route to provide procument schedule.
-    * Construction schedule include a new property ModelLink
-    * Route to provide 3D models
-      

@@ -3,7 +3,7 @@
     "DESCRIPCION": [
       "PRELIMINARES "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -53,7 +53,7 @@
     "DESCRIPCION": [
       "TOPOGRAFIA"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "2-Jan-2019"
     ],
     "SUBMITTAL": [
@@ -103,7 +103,7 @@
     "DESCRIPCION": [
       "SEGURIDAD"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "PENDIENTE FECHA"
     ],
     "SUBMITTAL": [
@@ -153,7 +153,7 @@
     "DESCRIPCION": [
       "LABORATORIO TERRACERIAS Y CONCRETOS"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "2-Jan-2019"
     ],
     "SUBMITTAL": [
@@ -203,7 +203,7 @@
     "DESCRIPCION": [
       "LABORATORIO ESTRUCTURA"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "20-Feb-2019"
     ],
     "SUBMITTAL": [
@@ -253,7 +253,7 @@
     "DESCRIPCION": [
       "TERRACERIAS "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -303,7 +303,7 @@
     "DESCRIPCION": [
       "TERRACERIAS"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "7-Dec-2018"
     ],
     "SUBMITTAL": [
@@ -353,7 +353,7 @@
     "DESCRIPCION": [
       "GENERALES "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -403,7 +403,7 @@
     "DESCRIPCION": [
       "VARILLA "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "12-Jan-2019"
     ],
     "SUBMITTAL": [
@@ -453,7 +453,7 @@
     "DESCRIPCION": [
       "ALAMBRE RECOCIDO "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "12-Jan-2019"
     ],
     "SUBMITTAL": [
@@ -503,7 +503,7 @@
     "DESCRIPCION": [
       "CONCRETO"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "12-Jan-2019"
     ],
     "SUBMITTAL": [
@@ -553,7 +553,7 @@
     "DESCRIPCION": [
       "CIMENTACIONES"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -603,7 +603,7 @@
     "DESCRIPCION": [
       "MANO DE OBRA ZAPATAS"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "12-Jan-2019"
     ],
     "SUBMITTAL": [
@@ -653,7 +653,7 @@
     "DESCRIPCION": [
       "COMPRA ANCLAS "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "4-Jan-2019"
     ],
     "SUBMITTAL": [
@@ -703,7 +703,7 @@
     "DESCRIPCION": [
       "MANO DE OBRA MURO CONTENCION "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "28-Feb-2019"
     ],
     "SUBMITTAL": [
@@ -753,7 +753,7 @@
     "DESCRIPCION": [
       "ESTRUCTURA"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -803,7 +803,7 @@
     "DESCRIPCION": [
       "CONTRATO ESTRUCTURA "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "18-Mar-2019"
     ],
     "SUBMITTAL": [
@@ -853,7 +853,7 @@
     "DESCRIPCION": [
       "PINTURA EN ESTRUCTURA METALICA"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "18-Mar-2019"
     ],
     "SUBMITTAL": [
@@ -903,7 +903,7 @@
     "DESCRIPCION": [
       "MUROS "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -953,7 +953,7 @@
     "DESCRIPCION": [
       "MANO DE OBRA MUROS"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "11-Feb-2019"
     ],
     "SUBMITTAL": [
@@ -1003,7 +1003,7 @@
     "DESCRIPCION": [
       "SUMNISTRO BLOCK "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "6-Feb-2019"
     ],
     "SUBMITTAL": [
@@ -1053,7 +1053,7 @@
     "DESCRIPCION": [
       "PISOS INTERIORES"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -1103,7 +1103,7 @@
     "DESCRIPCION": [
       "COLADO FIRMES "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "5-Oct-2019"
     ],
     "SUBMITTAL": [
@@ -1153,7 +1153,7 @@
     "DESCRIPCION": [
       "FIBRA METALICA "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "5-Oct-2019"
     ],
     "SUBMITTAL": [
@@ -1203,7 +1203,7 @@
     "DESCRIPCION": [
       "PASAJUNTAS "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "5-Oct-2019"
     ],
     "SUBMITTAL": [
@@ -1253,7 +1253,7 @@
     "DESCRIPCION": [
       "SELLO EN JUNTAS INTERIORES "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "5-Oct-2019"
     ],
     "SUBMITTAL": [
@@ -1303,7 +1303,7 @@
     "DESCRIPCION": [
       "CURADO FIRME"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "5-Oct-2019"
     ],
     "SUBMITTAL": [
@@ -1353,7 +1353,7 @@
     "DESCRIPCION": [
       "ESTUDIO DE PLANICIDAD "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "5-Oct-2019"
     ],
     "SUBMITTAL": [
@@ -1403,7 +1403,7 @@
     "DESCRIPCION": [
       "LAMINACION"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -1453,7 +1453,7 @@
     "DESCRIPCION": [
       "SUM CUBIERTA Y MUROS"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "9-Apr-2019"
     ],
     "SUBMITTAL": [
@@ -1503,7 +1503,7 @@
     "DESCRIPCION": [
       "DOMOS PRISMATICOS"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "16-Apr-2019"
     ],
     "SUBMITTAL": [
@@ -1553,7 +1553,7 @@
     "DESCRIPCION": [
       "MANO DE OBRA CUBIERTA "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "9-Apr-2019"
     ],
     "SUBMITTAL": [
@@ -1603,7 +1603,7 @@
     "DESCRIPCION": [
       "LINEA DE VIDA "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "7-Oct-2019"
     ],
     "SUBMITTAL": [
@@ -1653,7 +1653,7 @@
     "DESCRIPCION": [
       "PASOS DE GATO"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "7-Oct-2019"
     ],
     "SUBMITTAL": [
@@ -1703,7 +1703,7 @@
     "DESCRIPCION": [
       "COMPRA ROLADORA"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "1-Apr-2019"
     ],
     "SUBMITTAL": [
@@ -1753,7 +1753,7 @@
     "DESCRIPCION": [
       "CANCELERIA"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -1803,7 +1803,7 @@
     "DESCRIPCION": [
       "SUBCONTRATO CANCELERIA"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "14-Oct-2019"
     ],
     "SUBMITTAL": [
@@ -1853,7 +1853,7 @@
     "DESCRIPCION": [
       "ESCALERAS "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -1903,7 +1903,7 @@
     "DESCRIPCION": [
       "ESCALERAS DE CONCRETO "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "3-Aug-2019"
     ],
     "SUBMITTAL": [
@@ -1953,7 +1953,7 @@
     "DESCRIPCION": [
       "ESCALERA MARINA"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "3-Aug-2019"
     ],
     "SUBMITTAL": [
@@ -2003,7 +2003,7 @@
     "DESCRIPCION": [
       "PUERTAS"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -2053,7 +2053,7 @@
     "DESCRIPCION": [
       "PUERTAS HERRERIA "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "31-Oct-2019"
     ],
     "SUBMITTAL": [
@@ -2103,7 +2103,7 @@
     "DESCRIPCION": [
       "INSTALACIONES "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -2153,7 +2153,7 @@
     "DESCRIPCION": [
       "TRINCHERA PLUVIAL "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "7-Aug-2019"
     ],
     "SUBMITTAL": [
@@ -2203,7 +2203,7 @@
     "DESCRIPCION": [
       "TUBERIA PLUVIAL "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "7-Aug-2019"
     ],
     "SUBMITTAL": [
@@ -2253,7 +2253,7 @@
     "DESCRIPCION": [
       "VENTILADORES ATMOSFERICOS"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "18-May-2019"
     ],
     "SUBMITTAL": [
@@ -2303,7 +2303,7 @@
     "DESCRIPCION": [
       "DRENAJE SANITARIO "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "19-Aug-2019"
     ],
     "SUBMITTAL": [
@@ -2353,7 +2353,7 @@
     "DESCRIPCION": [
       "TRINCHERAS PARA INSTALACIONES "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "7-Aug-2019"
     ],
     "SUBMITTAL": [
@@ -2403,7 +2403,7 @@
     "DESCRIPCION": [
       "EXTERIORES"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       ""
     ],
     "SUBMITTAL": [
@@ -2453,7 +2453,7 @@
     "DESCRIPCION": [
       "BANQUETAS"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "4-Nov-2019"
     ],
     "SUBMITTAL": [
@@ -2506,7 +2506,7 @@
     "DESCRIPCION": [
       "GUARNICIONES"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "4-Nov-2019"
     ],
     "SUBMITTAL": [
@@ -2559,7 +2559,7 @@
     "DESCRIPCION": [
       "PAVIMENTOS CONCRETO"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "4-Nov-2019"
     ],
     "SUBMITTAL": [
@@ -2612,7 +2612,7 @@
     "DESCRIPCION": [
       "ACCESO PPAL PORTON CORREDIZO "
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "31-Oct-2019"
     ],
     "SUBMITTAL": [
@@ -2662,7 +2662,7 @@
     "DESCRIPCION": [
       "BARDA PERIMETRAL"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "18-Mar-2019"
     ],
     "SUBMITTAL": [
@@ -2712,7 +2712,7 @@
     "DESCRIPCION": [
       "BARDA PERIMETRAL PUNTO 2 AL 3"
     ],
-    "REQUERIDOENOBRA": [
+    "FECHADEREQUERIDOENOBRA": [
       "10-Oct-2019"
     ],
     "SUBMITTAL": [
