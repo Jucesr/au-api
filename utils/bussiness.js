@@ -168,4 +168,11 @@ module.exports = {
 // convertSchedule('PROGRAMA MEDLINE.xml', `b.6eec3ddb-4f30-44e2-a969-3652fda82609`);
 // convertSchedule('PROGRAMA TRUPPER.xml', `b.89a69405-af59-48b9-8864-2c6f1c1b206a`);
 // convertSchedule('PROGRAMA CATERPILLAR.xml', `b.f32621e9-e29e-45d4-b74b-96aff830e91b`);
-convertSchedule('PROGRAMA PROLOGIS.xml', `b.496173fb-c600-4e9d-aeac-8aeb054999c2`);
+// convertSchedule('PROGRAMA PROLOGIS.xml', `b.496173fb-c600-4e9d-aeac-8aeb054999c2`);
+
+// const projects = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'cache', 'project.json')));
+
+// const filter_projects = projects.filter( p => p.name.startsWith('AU_'))
+
+// fs.writeFileSync(path.join(__dirname, '..', 'cache', 'project.json'), JSON.stringify(filter_projects, null, 2))
+  
