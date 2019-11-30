@@ -11,19 +11,8 @@ const _ = require('lodash');
 const environment = process.env.NODE_ENV || 'development';
 console.log(`App running in "${environment}" mode`);
 
-//  --------------------------Database connection----------------------------------.
-
-// const dbService = require('./services/db.service');
-// const logService = require('./services/log.service');
-
-// dbService.authenticate().then(response => {
-//     logService.log('Connection to the database has been established successfully')
-// }).catch(e => {
-//     logService.log('Unable to connect to the database', e)
-// });
-
 //  --------------------------Server configurationn----------------------------------.
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3001;
 
 const app = express();
 
