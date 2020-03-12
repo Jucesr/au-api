@@ -52,12 +52,12 @@ const getProjectFoldersPath = async (project_id, path, getChildren, getRoot, for
   const allFolders = getFolders();
   let root = allFolders[project_id];
 
-  if(!root){
-    root = await getRoot(project_id)
+  if(!root || force){
+    root = await getRoot(project_id, route[0])
   }
 
   let current = root;
-  for (let index = 0; index < route.length; index++) {
+  for (let index = 1; index < route.length; index++) {
     const folder = route[index];
     parent = current;
     current = current.children.find(item => {

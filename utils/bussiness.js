@@ -169,6 +169,7 @@ module.exports = {
 // convertSchedule('PROGRAMA TRUPPER.xml', `b.89a69405-af59-48b9-8864-2c6f1c1b206a`);
 // convertSchedule('PROGRAMA CATERPILLAR.xml', `b.f32621e9-e29e-45d4-b74b-96aff830e91b`);
 // convertSchedule('PROGRAMA PROLOGIS.xml', `b.496173fb-c600-4e9d-aeac-8aeb054999c2`);
+// convertSchedule('PROGRAMA SODIMAC.xml', `b.49f34e31-e3bc-4afc-b1cc-a82821ebd838`);
 
 // const projects = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'cache', 'project.json')));
 

@@ -77,6 +77,46 @@ router.get('/projects', (req, res) => {
   
 });
 
+router.get('/project/:id/viewerItems', async (req, res) => {
+  const {query, params} = req;
+  const {folderPath, force = false} = query;
+  const project_id = params.id;
+
+  const fields = ['type', 'id', 'attributes', 'relationships']
+
+  const credentials = await oAuth2TwoLegged.authenticate()
+
+  const getFolderContent = async (folder_id) => {
+    const response = await FoldersApi.getFolderContents(project_id, folder_id, {}, oAuth2TwoLegged, credentials)
+    const {body} = response;
+    const {data} = body;
+    return clean(data)
+  }
+
+  const getRootFolder = async (project_id, rootFolderName) => {
+    const response = await ProjectsApi.getProjectTopFolders(HUB_ID, project_id, oAuth2TwoLegged, credentials)
+    const {body} = response;
+    const {data} = body;
+
+    const PFfolder = _.pick(data.find(item => item.attributes.name.includes(rootFolderName)), fields);
+
+    let children = await getFolderContent(PFfolder.id);
+
+    PFfolder.children = children;
+
+    return PFfolder
+  }
+  
+
+  const clean = arr => arr.map(item => _.pick(item, fields))
+
+  let foldersResponse = await Cache.getProjectFoldersPath(project_id, folderPath, getFolderContent, getRootFolder, force);    
+  foldersResponse = foldersResponse ? foldersResponse : []
+
+  console.log(`Path:${folderPath} \nItems: ${foldersResponse.length}`)
+  res.send(foldersResponse)
+});
+
 router.get('/project/:id/folderContent', async (req, res) => {
   const {query, params} = req;
   const {folderPath, force = false} = query;
@@ -93,12 +133,12 @@ router.get('/project/:id/folderContent', async (req, res) => {
     return clean(data)
   }
 
-  const getProjectFilesFolder = async (project_id) => {
+  const getRootFolder = async (project_id, rootFolderName) => {
     const response = await ProjectsApi.getProjectTopFolders(HUB_ID, project_id, oAuth2TwoLegged, credentials)
     const {body} = response;
     const {data} = body;
 
-    const PFfolder = _.pick(data.find(item => item.attributes.name.includes('Project Files')), fields);
+    const PFfolder = _.pick(data.find(item => item.attributes.name.includes(rootFolderName)), fields);
 
     let children = await getFolderContent(PFfolder.id);
 
@@ -106,10 +146,11 @@ router.get('/project/:id/folderContent', async (req, res) => {
 
     return PFfolder
   }
+  
 
   const clean = arr => arr.map(item => _.pick(item, fields))
 
-  let foldersResponse = await Cache.getProjectFoldersPath(project_id, folderPath, getFolderContent, getProjectFilesFolder, force);    
+  let foldersResponse = await Cache.getProjectFoldersPath(project_id, folderPath, getFolderContent, getRootFolder, force);    
   foldersResponse = foldersResponse ? foldersResponse : []
 
   console.log(`Path:${folderPath} \nItems: ${foldersResponse.length}`)

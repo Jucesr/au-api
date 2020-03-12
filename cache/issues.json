@@ -1062,6 +1062,125 @@
       }
     }
   ],
+  "b.49f34e31-e3bc-4afc-b1cc-a82821ebd838": [
+    {
+      "id": "Zm0diW2j7p0u755V5yxDtYLtDPzSh5gJwpfFi9L8m0",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2019-03-11T05:25:57.950Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "E0BjAuVh3oYj1xnEkdlSRFO5LumlXS3OAKIpOt0Lbc",
+      "type": "quality",
+      "attributes": {
+        "title": "Wrong color of the doors",
+        "due_date": "2019-04-22T23:13:50.794Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "FFw5srkBA1hrjfl8ivBBIJAXA6wJFpfgXmGaK9y4sd",
+      "type": "quality",
+      "attributes": {
+        "title": "Til-up walls has many scars",
+        "due_date": "2019-11-07T14:35:22.390Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "nYIfQf09oagozaSjQzjUvrEXx9cRauHgNhdOGNd1uy",
+      "type": "design",
+      "attributes": {
+        "title": "Missing information for Parking lot",
+        "due_date": "2019-09-13T16:00:48.876Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "dnf1H1jLNjPZDv1vc5beuNzwBbCalWXWuMvMZSRFXb",
+      "type": "security",
+      "attributes": {
+        "title": "People from Conza are not wearing security equipment",
+        "due_date": "2019-03-15T08:31:05.343Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "zszir72c3CkiurpNgpofSbFuhMxX85DHFYwtON8jkn",
+      "type": "security",
+      "attributes": {
+        "title": "The type of stairs does not comply with the code of safety established in the contract",
+        "due_date": "2019-08-21T01:41:46.373Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "OhmclQemZBt2UmHwLwMTOhQ9je1ko9cOdleymU4XFT",
+      "type": "quality",
+      "attributes": {
+        "title": "Concrete was not a right temperature",
+        "due_date": "2019-01-19T13:19:26.444Z",
+        "status": "close"
+      }
+    },
+    {
+      "id": "XZEpSAbDwZLqAabVHdz3Ho4sPlITpHZLV8Dzn7X5sp",
+      "type": "quality",
+      "attributes": {
+        "title": "Tucuruguay material was not properly spread",
+        "due_date": "2019-03-13T19:05:58.212Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "WfGiS4jl4UGdhZhbRVdeTsDHsNczskVKuSYW4l9TRM",
+      "type": "quality",
+      "attributes": {
+        "title": "Slope was not formed according to detail",
+        "due_date": "2019-11-02T00:51:33.172Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "X4E1sbbldRXp5oq0YrjNVUZ1RD5jF7htshpTfkUUET",
+      "type": "quality",
+      "attributes": {
+        "title": "Til-up walls has many scars",
+        "due_date": "2019-04-05T16:06:26.979Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "51ec641ASrHuZWOtCuZuxqkEPWNSDqwcaTuK9plYrC",
+      "type": "security",
+      "attributes": {
+        "title": "There is no secure path to walk in section B",
+        "due_date": "2018-11-27T10:48:36.938Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "wmCci0XIaITU3W0eAcVb0mhT47rfQ3QEwGZ98WUQkZ",
+      "type": "quality",
+      "attributes": {
+        "title": "Slope was not formed according to detail",
+        "due_date": "2019-08-20T16:25:44.080Z",
+        "status": "open"
+      }
+    },
+    {
+      "id": "IeJMQoqv5o53gHNw41ygxBEykpPQiNNmnMWZiqRQAi",
+      "type": "design",
+      "attributes": {
+        "title": "Structure plan ES-201 is missing",
+        "due_date": "2019-09-26T19:21:22.965Z",
+        "status": "open"
+      }
+    }
+  ],
   "b.6eec3ddb-4f30-44e2-a969-3652fda82609": [
     {
       "id": "hE6JiDEgKLKN5jdaO3eY15K1LDaO9UvXCI3pkNTPRo",

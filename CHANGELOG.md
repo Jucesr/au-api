@@ -1,3 +1,8 @@
+## V0.0.4
+Date: March 11, 2020
+  * [NEW]
+    * Add project VDC Sodimac PROM
+
 ## V0.0.3
 Date: Nov 17, 2019
   * [NEW]
